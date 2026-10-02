@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "repository": "https://github.com/Abdullah-Qatan-AQ/al-moshaf-data",
   "rawBaseUrl": "https://raw.githubusercontent.com/Abdullah-Qatan-AQ/al-moshaf-data/main",
   "quran": {
@@ -9,39 +9,22 @@
       "license": "CC BY 3.0 with verbatim/no-change terms",
       "pages": "quran/pages/ar/page-{page:03d}.json",
       "text": "quran/uthmani-tanzil.txt"
-    },
-    "english": {
-      "edition": "english_rwwad",
-      "source": "QuranEnc / Rowwad Translation Center",
-      "license": "QuranEnc redistribution terms; verbatim with attribution and version notice",
-      "pages": "quran/pages/en/page-{page:03d}.json",
-      "verses": "quran/translations/en-english_rwwad.json",
-      "sourceUrl": "https://quranenc.com/en/browse/english_rwwad"
-    },
-    "indonesian": {
-      "edition": "indonesian_affairs",
-      "source": "QuranEnc / Indonesian Ministry of Religious Affairs",
-      "license": "QuranEnc redistribution terms; verbatim with attribution and version notice",
-      "pages": "quran/pages/id/page-{page:03d}.json",
-      "verses": "quran/translations/id-indonesian_affairs.json",
-      "sourceUrl": "https://quranenc.com/en/browse/indonesian_affairs"
     }
   },
   "tafsir": {
+    "arabic": {
+      "edition": "ar-tafsir-al-mukhtasar",
+      "source": "Tafsir Center for Quranic Studies",
+      "license": "CC BY 4.0",
+      "file": "tafsir/ar-mukhtasar.json",
+      "commercialRedistribution": "Permitted by the official dataset card and LICENSE-DATA with attribution to Tafsir Center for Quranic Studies."
+    },
     "english": {
       "edition": "en-tafsir-al-mukhtasar",
       "source": "Tafsir Center for Quranic Studies",
-      "license": "CC BY 4.0 as declared by the source database",
+      "license": "CC BY 4.0",
       "file": "tafsir/en-mukhtasar.json",
-      "commercialRedistribution": "Permitted by the official dataset card under CC BY 4.0 with attribution to Tafsir Center for Quranic Studies and King Fahd Complex."
-    },
-    "arabic": {
-      "status": "not-bundled",
-      "reason": "Redistribution permission not verified"
-    },
-    "indonesian": {
-      "status": "not-bundled",
-      "reason": "Redistribution permission not verified"
+      "commercialRedistribution": "Permitted by the official dataset card and LICENSE-DATA with attribution to Tafsir Center for Quranic Studies."
     }
   },
   "devotional": {
@@ -56,8 +39,8 @@
     "ruqyah": {
       "file": "devotional/ruqyah.json",
       "license": "MIT"
-    },
-    "appIntegration": "These files are distributed for reuse but are intentionally not fetched by the application."
+    }
   },
-  "fallback": "Use the original upstream APIs for Quran pages/translations only when a repository file is unavailable; do not use API tafsir editions without verified commercial redistribution terms."
+  "appIntegration": "The application reads Arabic Quran pages and licensed Arabic/English Tafsir Center datasets from this repository. No translation or tafsir API is used. The repository contains no audio assets.",
+  "fallback": "AlQuran.cloud may be used only for Arabic Quran text if a repository file is unavailable; it is never used for translations or tafsir."
 }
