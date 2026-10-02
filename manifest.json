@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "repository": "https://github.com/Abdullah-Qatan-AQ/al-moshaf-data",
   "rawBaseUrl": "https://raw.githubusercontent.com/Abdullah-Qatan-AQ/al-moshaf-data/main",
   "quran": {
@@ -7,57 +7,48 @@
       "edition": "quran-uthmani",
       "source": "Tanzil Project",
       "license": "CC BY 3.0 with verbatim/no-change terms",
+      "commercialRedistribution": true,
+      "updateMonitoringRequiredByLicense": false,
       "pages": "quran/pages/ar/page-{page:03d}.json",
-      "text": "quran/uthmani-tanzil.txt"
-    },
-    "english": {
-      "edition": "english_rwwad",
-      "source": "QuranEnc / Rowwad Translation Center",
-      "license": "QuranEnc redistribution terms; verbatim with attribution and version notice",
-      "pages": "quran/pages/en/page-{page:03d}.json",
-      "verses": "quran/translations/en-english_rwwad.json",
-      "sourceUrl": "https://quranenc.com/en/browse/english_rwwad"
-    },
-    "indonesian": {
-      "edition": "indonesian_affairs",
-      "source": "QuranEnc / Indonesian Ministry of Religious Affairs",
-      "license": "QuranEnc redistribution terms; verbatim with attribution and version notice",
-      "pages": "quran/pages/id/page-{page:03d}.json",
-      "verses": "quran/translations/id-indonesian_affairs.json",
-      "sourceUrl": "https://quranenc.com/en/browse/indonesian_affairs"
+      "text": "quran/uthmani-tanzil.txt",
+      "sourceUrl": "https://tanzil.net/docs/text_license"
     }
   },
   "tafsir": {
     "english": {
       "edition": "en-tafsir-al-mukhtasar",
       "source": "Tafsir Center for Quranic Studies",
-      "license": "CC BY 4.0 as declared by the source database",
+      "license": "CC BY 4.0",
+      "commercialRedistribution": true,
+      "updateMonitoringRequiredByLicense": false,
       "file": "tafsir/en-mukhtasar.json",
-      "commercialRedistribution": "Permitted by the official dataset card under CC BY 4.0 with attribution to Tafsir Center for Quranic Studies and King Fahd Complex."
-    },
-    "arabic": {
-      "status": "not-bundled",
-      "reason": "Redistribution permission not verified"
-    },
-    "indonesian": {
-      "status": "not-bundled",
-      "reason": "Redistribution permission not verified"
+      "sourceUrl": "https://huggingface.co/datasets/tafsircenter/tafsir-mcp-data",
+      "attribution": "Tafsir Center for Quranic Studies (https://tafsir.net); King Fahd Complex for the Printing of the Holy Quran"
     }
   },
   "devotional": {
     "adhkar": {
       "file": "devotional/adhkar.json",
-      "license": "MIT"
+      "license": "MIT",
+      "commercialRedistribution": true,
+      "updateMonitoringRequiredByLicense": false
     },
     "namesOfAllah": {
       "file": "devotional/names-of-allah.json",
-      "license": "MIT"
+      "license": "MIT",
+      "commercialRedistribution": true,
+      "updateMonitoringRequiredByLicense": false
     },
     "ruqyah": {
       "file": "devotional/ruqyah.json",
-      "license": "MIT"
-    },
-    "appIntegration": "These files are distributed for reuse but are intentionally not fetched by the application."
+      "license": "MIT",
+      "commercialRedistribution": true,
+      "updateMonitoringRequiredByLicense": false
+    }
   },
-  "fallback": "Use the original upstream APIs for Quran pages/translations only when a repository file is unavailable; do not use API tafsir editions without verified commercial redistribution terms."
+  "excludedSources": {
+    "quranenc": "Excluded: its published terms require updating to the latest edition and do not state commercial permission explicitly.",
+    "alquranCloudTranslations": "Excluded from bundled data and translation fallback: the current terms do not grant a blanket commercial licence for every translation edition."
+  },
+  "fallback": "The app uses this repository as its primary data source. AlQuran.cloud is an emergency fallback only for Arabic Quran text, whose terms expressly permit commercial reproduction with attribution; no translation or tafsir API is used as a fallback."
 }
