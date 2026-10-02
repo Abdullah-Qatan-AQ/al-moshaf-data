@@ -1,0 +1,2 @@
+aa0bf9278a177a12e6d9bef621ce37a1d24fa35168b5ae9c13ebcbe01e3686cf  quran/uthmani-tanzil.txt
+7ba44b143ef4d855363a8d5b2af2b1d5a0c9486f9ed7476210d4e480c0fa7be0  tafsir/en-mukhtasar.json

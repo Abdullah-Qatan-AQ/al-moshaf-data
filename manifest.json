@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/Abdullah-Qatan-AQ/al-moshaf-data",
+  "rawBaseUrl": "https://raw.githubusercontent.com/Abdullah-Qatan-AQ/al-moshaf-data/main",
+  "quran": {
+    "arabic": {
+      "edition": "quran-uthmani",
+      "source": "Tanzil Project / AlQuran.cloud page metadata",
+      "license": "CC BY 3.0 with verbatim/no-change terms",
+      "pages": "quran/pages/ar/page-{page:03d}.json",
+      "text": "quran/uthmani-tanzil.txt"
+    }
+  },
+  "tafsir": {
+    "english": {
+      "edition": "en-tafsir-al-mukhtasar",
+      "source": "Tafsir Center for Quranic Studies",
+      "license": "CC BY 4.0",
+      "file": "tafsir/en-mukhtasar.json"
+    }
+  },
+  "fallback": "Use the original upstream APIs when a repository file is unavailable."
+}
