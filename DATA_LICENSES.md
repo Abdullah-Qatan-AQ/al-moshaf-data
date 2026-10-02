@@ -21,23 +21,3 @@
 ## المحتوى الأصلي
 
 - `devotional/adhkar.json` و`devotional/names-of-allah.json` و`devotional/ruqyah.json` محتوى أصلي ضمن MIT © 2026 Abdullah Qatan، ولا تشمل الرخصة مواد طرف ثالث غير موثقة.
-
-## الصوت
-
-- المصدر: [Internet Archive — Quran By Sheikh Mishary Rashid Alafasy](https://archive.org/details/misharyrashidalafasy_201908).
-- الحالة المعلنة في صفحة المصدر: 114 ملف MP3 للسور، وPublic Domain Mark 1.0. التطبيق يبث ملف السورة الكاملة عند اختيار الصوت.
-- يجب الاحتفاظ بإسناد المصدر والرابط، والتحقق من استمرار صفحة المصدر وحالة الملفات قبل كل إصدار.
-
-## API الطوارئ
-
-- التطبيق يبدأ من الملفات المحلية في هذا المستودع.
-- عند تعذر ملف القرآن العربي فقط، يمكنه استخدام AlQuran.cloud كخطة طوارئ للنص العربي دون ترجمة أو تفسير.
-- لا يستخدم التطبيق أي مصدر غير معتمد أو أي API للترجمات أو التفاسير.
-
-## التحقق
-
-```bash
-sha256sum -c SHA256SUMS.txt
-```
-
-احتفظ بإسناد كل مصدر ورخصته، ولا تنسب بيانات Tanzil أو Tafsir Center إلى MIT.
