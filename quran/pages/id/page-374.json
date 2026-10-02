@@ -309,7 +309,7 @@
     },
     {
       "number": 3108,
-      "text": "Penduduk Aikah590) telah mendustakan para rasul;",
+      "text": "Penduduk Aikah[590] telah mendustakan para rasul;",
       "surah": {
         "number": 26,
         "name": "سُورَةُ الشُّعَرَاءِ",
@@ -460,5 +460,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -81,7 +81,7 @@
     },
     {
       "number": 4073,
-      "text": "Maka sembahlah selain Dia sesukamu! (wahai orang-orang musyrik).760) Katakanlah, \"Sesungguhnya orang-orang yang rugi ialah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat.\" Ingatlah! Yang demikian itu adalah kerugian yang nyata.",
+      "text": "Maka sembahlah selain Dia sesukamu! (wahai orang-orang musyrik).[760] Katakanlah, \"Sesungguhnya orang-orang yang rugi ialah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat.\" Ingatlah! Yang demikian itu adalah kerugian yang nyata.",
       "surah": {
         "number": 39,
         "name": "سُورَةُ الزُّمَرِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 4075,
-      "text": "Dan orang-orang yang menjauhi Tagut (yaitu) tidak menyembahnya761) dan kembali kepada Allah, mereka pantas mendapat berita gembira; sebab itu sampaikanlah kabar gembira itu kepada hamba-hamba-Ku,",
+      "text": "Dan orang-orang yang menjauhi Tagut (yaitu) tidak menyembahnya[761] dan kembali kepada Allah, mereka pantas mendapat berita gembira; sebab itu sampaikanlah kabar gembira itu kepada hamba-hamba-Ku,",
       "surah": {
         "number": 39,
         "name": "سُورَةُ الزُّمَرِ",
@@ -138,7 +138,7 @@
     },
     {
       "number": 4076,
-      "text": "(yaitu) mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya.762) Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah dan mereka itulah orang-orang yang mempunyai akal sehat.",
+      "text": "(yaitu) mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya.[762] Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah dan mereka itulah orang-orang yang mempunyai akal sehat.",
       "surah": {
         "number": 39,
         "name": "سُورَةُ الزُّمَرِ",
@@ -213,5 +213,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -62,7 +62,7 @@
     },
     {
       "number": 1998,
-      "text": "Barangsiapa mengerjakan kebajikan, baik laki-laki maupun perempuan dalam keadaan beriman, maka pasti akan Kami berikan kepadanya kehidupan yang baik463) dan akan Kami beri balasan dengan pahala yang lebih baik dari apa yang telah mereka kerjakan.",
+      "text": "Barangsiapa mengerjakan kebajikan, baik laki-laki maupun perempuan dalam keadaan beriman, maka pasti akan Kami berikan kepadanya kehidupan yang baik[463] dan akan Kami beri balasan dengan pahala yang lebih baik dari apa yang telah mereka kerjakan.",
       "surah": {
         "number": 16,
         "name": "سُورَةُ النَّحۡلِ",
@@ -175,5 +175,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -43,7 +43,7 @@
     },
     {
       "number": 3483,
-      "text": "Dan Kami perintahkan kepada manusia (agar berbuat baik) kepada kedua orang tuanya. Ibunya telah mengandungnya dalam keadaan lemah yang bertambah-tambah, dan menyapihnya dalam usia dua tahun.648) Bersyukurlah kepada-Ku dan kepada kedua orang tuamu. Hanya kepada Aku kembalimu.",
+      "text": "Dan Kami perintahkan kepada manusia (agar berbuat baik) kepada kedua orang tuanya. Ibunya telah mengandungnya dalam keadaan lemah yang bertambah-tambah, dan menyapihnya dalam usia dua tahun.[648] Bersyukurlah kepada-Ku dan kepada kedua orang tuamu. Hanya kepada Aku kembalimu.",
       "surah": {
         "number": 31,
         "name": "سُورَةُ لُقۡمَانَ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 3485,
-      "text": "(Lukman berkata), \"Wahai anakku! Sungguh, jika ada (suatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di bumi, niscaya Allah akan memberinya (balasan). Sesungguhnya Allah Mahahalus,649) Mahateliti.",
+      "text": "(Lukman berkata), \"Wahai anakku! Sungguh, jika ada (suatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di bumi, niscaya Allah akan memberinya (balasan). Sesungguhnya Allah Mahahalus,[649] Mahateliti.",
       "surah": {
         "number": 31,
         "name": "سُورَةُ لُقۡمَانَ",
@@ -138,7 +138,7 @@
     },
     {
       "number": 3488,
-      "text": "Dan sederhanakanlah dalam berjalan650) dan lunakkanlah suaramu. Sesungguhnya seburuk-buruk suara ialah suara keledai.\"",
+      "text": "Dan sederhanakanlah dalam berjalan[650] dan lunakkanlah suaramu. Sesungguhnya seburuk-buruk suara ialah suara keledai.\"",
       "surah": {
         "number": 31,
         "name": "سُورَةُ لُقۡمَانَ",
@@ -156,5 +156,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

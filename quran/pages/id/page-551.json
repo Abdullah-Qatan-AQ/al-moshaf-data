@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 5162,
-      "text": "Wahai Nabi! Apabila perempuan-perempuan mukmin datang kepadamu untuk mengadakan baiat (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah, tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka,840) dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang.",
+      "text": "Wahai Nabi! Apabila perempuan-perempuan mukmin datang kepadamu untuk mengadakan baiat (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah, tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka,[840] dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang.",
       "surah": {
         "number": 60,
         "name": "سُورَةُ المُمۡتَحنَةِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 5168,
-      "text": "Dan (ingatlah) ketika Musa berkata kepada kaumnya, \"Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?\" Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka.841) Dan Allah tidak memberi petunjuk kepada kaum yang fasik.",
+      "text": "Dan (ingatlah) ketika Musa berkata kepada kaumnya, \"Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?\" Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka.[841] Dan Allah tidak memberi petunjuk kepada kaum yang fasik.",
       "surah": {
         "number": 61,
         "name": "سُورَةُ الصَّفِّ",
@@ -137,5 +137,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

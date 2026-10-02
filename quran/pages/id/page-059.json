@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 364,
-      "text": "Wahai Ahli Kitab! Mengapa kamu mencampuradukkan kebenaran dengan kebatilan,127) dan kamu menyembunyikan kebenaran,128) padahal kamu mengetahui?",
+      "text": "Wahai Ahli Kitab! Mengapa kamu mencampuradukkan kebenaran dengan kebatilan,[127] dan kamu menyembunyikan kebenaran,[128] padahal kamu mengetahui?",
       "surah": {
         "number": 3,
         "name": "سُورَةُ آلِ عِمۡرَانَ",
@@ -43,7 +43,7 @@
     },
     {
       "number": 366,
-      "text": "Dan janganlah kamu percaya kecuali kepada orang yang mengikuti agamamu.129) Katakanlah (Muhammad), \"Sesungguhnya petunjuk itu hanyalah petunjuk Allah. (Janganlah kamu percaya) bahwa seseorang akan diberi seperti apa yang diberikan kepada kamu atau bahwa mereka akan menyanggah kamu di hadapan Tuhanmu.\" Katakanlah (Muhammad), \"Sesungguhnya karunia itu di tangan Allah, Dia memberikannya kepada siapa yang Dia kehendaki. Allah Mahaluas, Maha Mengetahui.",
+      "text": "Dan janganlah kamu percaya kecuali kepada orang yang mengikuti agamamu.[129] Katakanlah (Muhammad), \"Sesungguhnya petunjuk itu hanyalah petunjuk Allah. (Janganlah kamu percaya) bahwa seseorang akan diberi seperti apa yang diberikan kepada kamu atau bahwa mereka akan menyanggah kamu di hadapan Tuhanmu.\" Katakanlah (Muhammad), \"Sesungguhnya karunia itu di tangan Allah, Dia memberikannya kepada siapa yang Dia kehendaki. Allah Mahaluas, Maha Mengetahui.",
       "surah": {
         "number": 3,
         "name": "سُورَةُ آلِ عِمۡرَانَ",
@@ -137,5 +137,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

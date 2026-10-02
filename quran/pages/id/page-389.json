@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 3281,
-      "text": "Maka ketika Musa telah menyelesaikan waktu yang ditentukan itu dan dia berangkat dengan keluarganya, dia melihat api di lereng gunung.608) Dia berkata kepada keluarganya, \"Tunggulah (di sini), sesungguhnya aku melihat api, mudah-mudahan aku dapat membawa suatu berita kepadamu dari (tempat) api itu atau (membawa) sepercik api, agar kamu dapat menghangatkan badan.\"",
+      "text": "Maka ketika Musa telah menyelesaikan waktu yang ditentukan itu dan dia berangkat dengan keluarganya, dia melihat api di lereng gunung.[608] Dia berkata kepada keluarganya, \"Tunggulah (di sini), sesungguhnya aku melihat api, mudah-mudahan aku dapat membawa suatu berita kepadamu dari (tempat) api itu atau (membawa) sepercik api, agar kamu dapat menghangatkan badan.\"",
       "surah": {
         "number": 28,
         "name": "سُورَةُ القَصَصِ",
@@ -24,7 +24,7 @@
     },
     {
       "number": 3282,
-      "text": "Maka ketika dia (Musa) sampai ke (tempat) api itu, dia diseru dari (arah) pinggir sebelah kanan lembah, dari sebatang pohon, di sebidang tanah yang diberkahi, \"Wahai Musa! Sungguh, Aku adalah Allah, Tuhan seluruh alam!609)",
+      "text": "Maka ketika dia (Musa) sampai ke (tempat) api itu, dia diseru dari (arah) pinggir sebelah kanan lembah, dari sebatang pohon, di sebidang tanah yang diberkahi, \"Wahai Musa! Sungguh, Aku adalah Allah, Tuhan seluruh alam![609]",
       "surah": {
         "number": 28,
         "name": "سُورَةُ القَصَصِ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 3286,
-      "text": "Dan saudaraku Harun, dia lebih fasih lidahnya daripada aku,610) maka utuslah dia bersamaku sebagai pembantuku untuk membenarkan (perkataan)ku; sungguh, aku takut mereka akan mendustakanku.\"",
+      "text": "Dan saudaraku Harun, dia lebih fasih lidahnya daripada aku,[610] maka utuslah dia bersamaku sebagai pembantuku untuk membenarkan (perkataan)ku; sungguh, aku takut mereka akan mendustakanku.\"",
       "surah": {
         "number": 28,
         "name": "سُورَةُ القَصَصِ",
@@ -137,5 +137,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

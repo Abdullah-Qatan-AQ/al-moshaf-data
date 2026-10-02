@@ -252,7 +252,7 @@
     },
     {
       "number": 2554,
-      "text": "Dan Kami selamatkan dia (Ibrahim) dan Luṭ ke suatu negeri yang telah Kami berkahi untuk seluruh alam.533)",
+      "text": "Dan Kami selamatkan dia (Ibrahim) dan Luṭ ke suatu negeri yang telah Kami berkahi untuk seluruh alam.[533]",
       "surah": {
         "number": 21,
         "name": "سُورَةُ الأَنبِيَاءِ",
@@ -289,5 +289,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

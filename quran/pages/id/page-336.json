@@ -24,7 +24,7 @@
     },
     {
       "number": 2627,
-      "text": "Demikianlah (perintah Allah). Dan barangsiapa mengagungkan syiar-syiar Allah,545) maka sesungguhnya hal itu timbul dari ketakwaan hati.",
+      "text": "Demikianlah (perintah Allah). Dan barangsiapa mengagungkan syiar-syiar Allah,[545] maka sesungguhnya hal itu timbul dari ketakwaan hati.",
       "surah": {
         "number": 22,
         "name": "سُورَةُ الحَجِّ",
@@ -43,7 +43,7 @@
     },
     {
       "number": 2628,
-      "text": "Bagi kamu padanya (hewan hadyu)546) ada beberapa manfaat,547) sampai waktu yang ditentukan, kemudian tempat penyembelihannya adalah di sekitar Baitul Atiq (Baitullah).",
+      "text": "Bagi kamu padanya (hewan hadyu)[546] ada beberapa manfaat,[547] sampai waktu yang ditentukan, kemudian tempat penyembelihannya adalah di sekitar Baitul Atiq (Baitullah).",
       "surah": {
         "number": 22,
         "name": "سُورَةُ الحَجِّ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 2631,
-      "text": "Dan unta-unta itu Kami jadikan untukmu bagian dari syiar agama Allah, kamu banyak memperoleh kebaikan padanya. Maka sebutlah nama Allah (ketika kamu akan menyembelihnya) dalam keadaan berdiri548) (dan kaki-kaki telah terikat). Kemudian apabila telah rebah (mati), maka makanlah sebagiannya dan berilah makan orang yang merasa cukup dengan apa yang ada padanya (tidak meminta-minta) dan orang yang meminta. Demikianlah Kami tundukkan (unta-unta itu) untukmu, agar kamu bersyukur.",
+      "text": "Dan unta-unta itu Kami jadikan untukmu bagian dari syiar agama Allah, kamu banyak memperoleh kebaikan padanya. Maka sebutlah nama Allah (ketika kamu akan menyembelihnya) dalam keadaan berdiri[548] (dan kaki-kaki telah terikat). Kemudian apabila telah rebah (mati), maka makanlah sebagiannya dan berilah makan orang yang merasa cukup dengan apa yang ada padanya (tidak meminta-minta) dan orang yang meminta. Demikianlah Kami tundukkan (unta-unta itu) untukmu, agar kamu bersyukur.",
       "surah": {
         "number": 22,
         "name": "سُورَةُ الحَجِّ",
@@ -156,5 +156,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

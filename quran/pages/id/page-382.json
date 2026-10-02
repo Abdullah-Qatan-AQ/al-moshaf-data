@@ -100,7 +100,7 @@
     },
     {
       "number": 3220,
-      "text": "Bukankah Dia (Allah) telah menjadikan bumi sebagai tempat berdiam, yang menjadikan sungai-sungai di celah-celahnya, yang menjadikan gunung-gunung untuk (mengkokohkan)nya dan menjadikan suatu pemisah antara dua laut?603) Apakah di samping Allah ada tuhan (yang lain)? Sebenarnya kebanyakan mereka tidak mengetahui.",
+      "text": "Bukankah Dia (Allah) telah menjadikan bumi sebagai tempat berdiam, yang menjadikan sungai-sungai di celah-celahnya, yang menjadikan gunung-gunung untuk (mengkokohkan)nya dan menjadikan suatu pemisah antara dua laut?[603] Apakah di samping Allah ada tuhan (yang lain)? Sebenarnya kebanyakan mereka tidak mengetahui.",
       "surah": {
         "number": 27,
         "name": "سُورَةُ النَّمۡلِ",
@@ -156,5 +156,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

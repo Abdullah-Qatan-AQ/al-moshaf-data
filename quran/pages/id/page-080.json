@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 508,
-      "text": "Dan para perempuan yang melakukan perbuatan keji183) di antara perempuan-perempuan kamu, hendaklah terhadap mereka ada empat orang saksi di antara kamu (yang menyaksikannya). Apabila mereka telah memberi kesaksian, maka kurunglah mereka (perempuan itu) dalam rumah sampai mereka menemui ajalnya, atau sampai Allah memberi jalan (yang lain) kepadanya.184)",
+      "text": "Dan para perempuan yang melakukan perbuatan keji[183] di antara perempuan-perempuan kamu, hendaklah terhadap mereka ada empat orang saksi di antara kamu (yang menyaksikannya). Apabila mereka telah memberi kesaksian, maka kurunglah mereka (perempuan itu) dalam rumah sampai mereka menemui ajalnya, atau sampai Allah memberi jalan (yang lain) kepadanya.[184]",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 512,
-      "text": "Wahai orang-orang yang beriman! Tidak halal bagi kamu mewarisi perempuan dengan jalan paksa185) dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, kecuali apabila mereka melakukan perbuatan keji yang nyata. Dan bergaullah dengan mereka menurut cara yang patut. Jika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya.",
+      "text": "Wahai orang-orang yang beriman! Tidak halal bagi kamu mewarisi perempuan dengan jalan paksa[185] dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, kecuali apabila mereka melakukan perbuatan keji yang nyata. Dan bergaullah dengan mereka menurut cara yang patut. Jika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya.",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -99,5 +99,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

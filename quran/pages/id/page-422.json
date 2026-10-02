@@ -24,7 +24,7 @@
     },
     {
       "number": 3565,
-      "text": "Wahai istri-istri Nabi! Kamu tidak seperti perempuan-perempuan yang lain, jika kamu bertakwa. Maka janganlah kamu tunduk (melemah lembutkan suara)677) dalam berbicara sehingga bangkit nafsu orang yang ada penyakit dalam hatinya,678) dan ucapkanlah perkataan yang baik,",
+      "text": "Wahai istri-istri Nabi! Kamu tidak seperti perempuan-perempuan yang lain, jika kamu bertakwa. Maka janganlah kamu tunduk (melemah lembutkan suara)[677] dalam berbicara sehingga bangkit nafsu orang yang ada penyakit dalam hatinya,[678] dan ucapkanlah perkataan yang baik,",
       "surah": {
         "number": 33,
         "name": "سُورَةُ الأَحۡزَابِ",
@@ -43,7 +43,7 @@
     },
     {
       "number": 3566,
-      "text": "Dan hendaklah kamu tetap di rumahmu679) dan janganlah kamu berhias dan (bertingkah laku) seperti orang-orang jahiliah dahulu,680) dan laksanakanlah salat, tunaikanlah zakat dan taatilah Allah dan Rasul-Nya. Sesungguhnya Allah bermaksud hendak menghilangkan dosa dari kamu, wahai ahlulbait681) dan membersihkan kamu sebersih-bersihnya.",
+      "text": "Dan hendaklah kamu tetap di rumahmu[679] dan janganlah kamu berhias dan (bertingkah laku) seperti orang-orang jahiliah dahulu,[680] dan laksanakanlah salat, tunaikanlah zakat dan taatilah Allah dan Rasul-Nya. Sesungguhnya Allah bermaksud hendak menghilangkan dosa dari kamu, wahai ahlulbait[681] dan membersihkan kamu sebersih-bersihnya.",
       "surah": {
         "number": 33,
         "name": "سُورَةُ الأَحۡزَابِ",
@@ -99,5 +99,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

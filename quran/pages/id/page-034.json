@@ -24,7 +24,7 @@
     },
     {
       "number": 224,
-      "text": "Mereka bertanya kepadamu (Muhammad) tentang berperang pada bulan haram. Katakanlah, \"Berperang dalam bulan itu adalah (dosa) besar. Tetapi menghalangi (orang) dari jalan Allah, ingkar kepada-Nya, (menghalangi orang masuk) Masjidilharam, dan mengusir penduduk dari sekitarnya, lebih besar (dosanya) dalam pandangan Allah. Sedangkan fitnah74) lebih kejam daripada pembunuhan. Mereka tidak akan berhenti memerangimu sampai kamu murtad (keluar) dari agamamu, jika mereka sanggup. Barang siapa yang murtad di antara kamu dari agamanya, lalu dia mati dalam kekafiran, maka mereka itu sia-sia amalnya di dunia dan di akhirat, dan mereka itulah penghuni neraka, mereka kekal di dalamnya.\"",
+      "text": "Mereka bertanya kepadamu (Muhammad) tentang berperang pada bulan haram. Katakanlah, \"Berperang dalam bulan itu adalah (dosa) besar. Tetapi menghalangi (orang) dari jalan Allah, ingkar kepada-Nya, (menghalangi orang masuk) Masjidilharam, dan mengusir penduduk dari sekitarnya, lebih besar (dosanya) dalam pandangan Allah. Sedangkan fitnah[74] lebih kejam daripada pembunuhan. Mereka tidak akan berhenti memerangimu sampai kamu murtad (keluar) dari agamamu, jika mereka sanggup. Barang siapa yang murtad di antara kamu dari agamanya, lalu dia mati dalam kekafiran, maka mereka itu sia-sia amalnya di dunia dan di akhirat, dan mereka itulah penghuni neraka, mereka kekal di dalamnya.\"",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -62,7 +62,7 @@
     },
     {
       "number": 226,
-      "text": "Mereka menanyakan kepadamu (Muhammad) tentang khamar75) dan judi. Katakanlah, \"Pada keduanya terdapat dosa besar dan beberapa manfaat bagi manusia. Tetapi dosanya lebih besar daripada manfaatnya.\" Dan mereka menanyakan kepadamu (tentang) apa yang (harus) mereka infakkan. Katakanlah, \"Kelebihan (dari apa yang diperlukan).\" Demikianlah Allah menerangkan ayat-ayat-Nya kepadamu agar kamu memikirkan,",
+      "text": "Mereka menanyakan kepadamu (Muhammad) tentang khamar[75] dan judi. Katakanlah, \"Pada keduanya terdapat dosa besar dan beberapa manfaat bagi manusia. Tetapi dosanya lebih besar daripada manfaatnya.\" Dan mereka menanyakan kepadamu (tentang) apa yang (harus) mereka infakkan. Katakanlah, \"Kelebihan (dari apa yang diperlukan).\" Demikianlah Allah menerangkan ayat-ayat-Nya kepadamu agar kamu memikirkan,",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -80,5 +80,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 1750,
-      "text": "Dan orang-orang kafir berkata, \"Engkau (Muhammad) bukanlah seorang Rasul.\" Katakanlah, \"Cukuplah Allah dan orang yang menguasai ilmu Al-Kitab423) menjadi saksi antara aku dan kamu.\"",
+      "text": "Dan orang-orang kafir berkata, \"Engkau (Muhammad) bukanlah seorang Rasul.\" Katakanlah, \"Cukuplah Allah dan orang yang menguasai ilmu Al-Kitab[423] menjadi saksi antara aku dan kamu.\"",
       "surah": {
         "number": 13,
         "name": "سُورَةُ الرَّعۡدِ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 1754,
-      "text": "Dan Kami tidak mengutus seorang rasul pun, melainkan dengan bahasa kaumnya,424) agar dia dapat memberi penjelasan kepada mereka. Maka Allah menyesatkan siapa yang Dia kehendaki, dan memberi petunjuk kepada siapa yang Dia kehendaki. Dia Yang Mahaperkasa, Mahabijaksana.",
+      "text": "Dan Kami tidak mengutus seorang rasul pun, melainkan dengan bahasa kaumnya,[424] agar dia dapat memberi penjelasan kepada mereka. Maka Allah menyesatkan siapa yang Dia kehendaki, dan memberi petunjuk kepada siapa yang Dia kehendaki. Dia Yang Mahaperkasa, Mahabijaksana.",
       "surah": {
         "number": 14,
         "name": "سُورَةُ إِبۡرَاهِيمَ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 1755,
-      "text": "Dan sungguh, Kami telah mengutus Musa dengan membawa tanda-tanda (kekuasaan) Kami, (dan Kami perintahkan kepadanya), \"Keluarkanlah kaummu dari kegelapan kepada cahaya terang-benderang dan ingatkanlah mereka kepada hari-hari Allah.\"425) Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah) bagi setiap orang penyabar dan banyak bersyukur.",
+      "text": "Dan sungguh, Kami telah mengutus Musa dengan membawa tanda-tanda (kekuasaan) Kami, (dan Kami perintahkan kepadanya), \"Keluarkanlah kaummu dari kegelapan kepada cahaya terang-benderang dan ingatkanlah mereka kepada hari-hari Allah.\"[425] Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah) bagi setiap orang penyabar dan banyak bersyukur.",
       "surah": {
         "number": 14,
         "name": "سُورَةُ إِبۡرَاهِيمَ",
@@ -118,5 +118,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

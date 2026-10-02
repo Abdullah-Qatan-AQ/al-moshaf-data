@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 675,
-      "text": "Wahai orang-orang yang beriman! Apabila kamu hendak melaksanakan salat, maka basuhlah wajahmu dan tanganmu sampai ke siku, dan sapulah kepalamu dan (basuh) kedua kakimu sampai ke kedua mata kaki. Jika kamu junub maka mandilah. Dan jika kamu sakit265) atau dalam perjalanan atau kembali dari tempat buang air (kakus) atau menyentuh266) perempuan, lalu kamu tidak memperoleh air, maka bertayamumlah dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan (debu) itu. Allah tidak ingin menyulitkan kamu, tetapi Dia hendak membersihkan kamu dan menyempurnakan nikmat-Nya bagimu, agar kamu bersyukur.",
+      "text": "Wahai orang-orang yang beriman! Apabila kamu hendak melaksanakan salat, maka basuhlah wajahmu dan tanganmu sampai ke siku, dan sapulah kepalamu dan (basuh) kedua kakimu sampai ke kedua mata kaki. Jika kamu junub maka mandilah. Dan jika kamu sakit[265] atau dalam perjalanan atau kembali dari tempat buang air (kakus) atau menyentuh[266] perempuan, lalu kamu tidak memperoleh air, maka bertayamumlah dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan (debu) itu. Allah tidak ingin menyulitkan kamu, tetapi Dia hendak membersihkan kamu dan menyempurnakan nikmat-Nya bagimu, agar kamu bersyukur.",
       "surah": {
         "number": 5,
         "name": "سُورَةُ المَائـِدَةِ",
@@ -24,7 +24,7 @@
     },
     {
       "number": 676,
-      "text": "Dan ingatlah akan karunia Allah kepadamu dan perjanjian-Nya267) yang telah diikatkan kepadamu, ketika kamu mengatakan, \"Kami mendengar dan kami menaati.\" Dan bertakwalah kepada Allah, sungguh, Allah Maha Mengetahui segala isi hati.",
+      "text": "Dan ingatlah akan karunia Allah kepadamu dan perjanjian-Nya[267] yang telah diikatkan kepadamu, ketika kamu mengatakan, \"Kami mendengar dan kami menaati.\" Dan bertakwalah kepada Allah, sungguh, Allah Maha Mengetahui segala isi hati.",
       "surah": {
         "number": 5,
         "name": "سُورَةُ المَائـِدَةِ",
@@ -80,5 +80,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -81,7 +81,7 @@
     },
     {
       "number": 5213,
-      "text": "Wahai orang-orang yang beriman! Sesungguhnya di antara istri-istrimu dan anak-anakmu ada yang menjadi musuh bagimu,844) maka berhati-hatilah kamu terhadap mereka; dan jika kamu maafkan dan kamu santuni serta ampuni (mereka), maka sungguh, Allah Maha Pengampun, Maha Penyayang.",
+      "text": "Wahai orang-orang yang beriman! Sesungguhnya di antara istri-istrimu dan anak-anakmu ada yang menjadi musuh bagimu,[844] maka berhati-hatilah kamu terhadap mereka; dan jika kamu maafkan dan kamu santuni serta ampuni (mereka), maka sungguh, Allah Maha Pengampun, Maha Penyayang.",
       "surah": {
         "number": 64,
         "name": "سُورَةُ التَّغَابُنِ",
@@ -175,5 +175,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -43,7 +43,7 @@
     },
     {
       "number": 3357,
-      "text": "Sesungguhnya yang kamu sembah selain Allah hanyalah berhala-berhala, dan kamu membuat kebohongan.619) Sesungguhnya apa yang kamu sembah selain Allah itu tidak mampu memberikan rezeki kepadamu; maka mintalah rezeki dari Allah, dan sembahlah Dia dan bersyukurlah kepada-Nya. Hanya kepada-Nya kamu akan dikembalikan.",
+      "text": "Sesungguhnya yang kamu sembah selain Allah hanyalah berhala-berhala, dan kamu membuat kebohongan.[619] Sesungguhnya apa yang kamu sembah selain Allah itu tidak mampu memberikan rezeki kepadamu; maka mintalah rezeki dari Allah, dan sembahlah Dia dan bersyukurlah kepada-Nya. Hanya kepada-Nya kamu akan dikembalikan.",
       "surah": {
         "number": 29,
         "name": "سُورَةُ العَنكَبُوتِ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 3360,
-      "text": "Katakanlah, \"Berjalanlah di bumi, maka perhatikanlah bagaimana (Allah) memulai penciptaan (makhluk), kemudian Allah menjadikan kejadian yang akhir.620) Sungguh, Allah Mahakuasa atas segala sesuatu.",
+      "text": "Katakanlah, \"Berjalanlah di bumi, maka perhatikanlah bagaimana (Allah) memulai penciptaan (makhluk), kemudian Allah menjadikan kejadian yang akhir.[620] Sungguh, Allah Mahakuasa atas segala sesuatu.",
       "surah": {
         "number": 29,
         "name": "سُورَةُ العَنكَبُوتِ",
@@ -175,5 +175,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 161,
-      "text": "Dan janganlah kamu mengatakan orang-orang yang terbunuh di jalan Allah (mereka) telah mati. Sebenarnya (mereka) hidup, 51) tetapi kamu tidak menyadarinya.",
+      "text": "Dan janganlah kamu mengatakan orang-orang yang terbunuh di jalan Allah (mereka) telah mati. Sebenarnya (mereka) hidup, [51] tetapi kamu tidak menyadarinya.",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -43,7 +43,7 @@
     },
     {
       "number": 163,
-      "text": "(yaitu) orang-orang yang apabila ditimpa musibah, mereka berkata \"Innā lillāhi wa innā ilaihi rāji'ūn\" 52) (sesungguhnya kami milik Allah dan kepada-Nyalah kami kembali).",
+      "text": "(yaitu) orang-orang yang apabila ditimpa musibah, mereka berkata \"Innā lillāhi wa innā ilaihi rāji'ūn\" [52] (sesungguhnya kami milik Allah dan kepada-Nyalah kami kembali).",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 165,
-      "text": "Sesungguhnya Safa dan Marwah merupakan sebagian syiar (agama) Allah.53) Maka siapa yang beribadah haji ke Baitullah atau berumrah, tidak ada dosa baginya mengerjakan sai54) di antara keduanya. Dan siapa yang dengan kerelaan hati mengerjakan kebajikan, maka Allah Maha Mensyukuri, 55) Maha Mengetahui.",
+      "text": "Sesungguhnya Safa dan Marwah merupakan sebagian syiar (agama) Allah.[53] Maka siapa yang beribadah haji ke Baitullah atau berumrah, tidak ada dosa baginya mengerjakan sai[54] di antara keduanya. Dan siapa yang dengan kerelaan hati mengerjakan kebajikan, maka Allah Maha Mensyukuri, [55] Maha Mengetahui.",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 167,
-      "text": "kecuali mereka yang telah bertobat, mengadakan perbaikan dan menjelaskan(nya),56) mereka itulah yang Aku terima tobatnya dan Akulah Yang Maha Penerima tobat, Maha Penyayang.",
+      "text": "kecuali mereka yang telah bertobat, mengadakan perbaikan dan menjelaskan(nya),[56] mereka itulah yang Aku terima tobatnya dan Akulah Yang Maha Penerima tobat, Maha Penyayang.",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -194,5 +194,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

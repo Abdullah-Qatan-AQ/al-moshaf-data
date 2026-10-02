@@ -100,7 +100,7 @@
     },
     {
       "number": 1823,
-      "text": "Dan tidak ada sesuatu pun, melainkan pada sisi Kamilah khazanahnya;434) Kami tidak menurunkannya melainkan dengan ukuran tertentu.",
+      "text": "Dan tidak ada sesuatu pun, melainkan pada sisi Kamilah khazanahnya;[434] Kami tidak menurunkannya melainkan dengan ukuran tertentu.",
       "surah": {
         "number": 15,
         "name": "سُورَةُ الحِجۡرِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 1824,
-      "text": "Dan Kami telah meniupkan angin untuk mengawinkan435) dan Kami turunkan hujan dari langit, lalu Kami beri kamu minum dengan (air) itu, dan bukanlah kamu yang menyimpannya.",
+      "text": "Dan Kami telah meniupkan angin untuk mengawinkan[435] dan Kami turunkan hujan dari langit, lalu Kami beri kamu minum dengan (air) itu, dan bukanlah kamu yang menyimpannya.",
       "surah": {
         "number": 15,
         "name": "سُورَةُ الحِجۡرِ",
@@ -252,7 +252,7 @@
     },
     {
       "number": 1831,
-      "text": "Maka apabila Aku telah menyempurnakan (kejadian)nya, dan Aku telah meniupkan roh (ciptaan)-Ku ke dalamnya, maka tunduklah kamu kepadanya dengan bersujud.436)",
+      "text": "Maka apabila Aku telah menyempurnakan (kejadian)nya, dan Aku telah meniupkan roh (ciptaan)-Ku ke dalamnya, maka tunduklah kamu kepadanya dengan bersujud.[436]",
       "surah": {
         "number": 15,
         "name": "سُورَةُ الحِجۡرِ",
@@ -308,5 +308,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

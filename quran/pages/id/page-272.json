@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 1944,
-      "text": "Dan Kami tidak mengutus sebelum engkau (Muhammad), melainkan orang laki-laki yang Kami beri wahyu kepada mereka; maka bertanyalah kepada orang yang mempunyai pengetahuan454) jika kamu tidak mengetahui,",
+      "text": "Dan Kami tidak mengutus sebelum engkau (Muhammad), melainkan orang laki-laki yang Kami beri wahyu kepada mereka; maka bertanyalah kepada orang yang mempunyai pengetahuan[454] jika kamu tidak mengetahui,",
       "surah": {
         "number": 16,
         "name": "سُورَةُ النَّحۡلِ",
@@ -24,7 +24,7 @@
     },
     {
       "number": 1945,
-      "text": "(mereka Kami utus) dengan membawa keterangan-keterangan (mukjizat) dan kitab-kitab. Dan Kami turunkan Aż-Żikr (Alquran) kepadamu, agar engkau menerangkan kepada manusia apa yang telah diturunkan kepada mereka455) dan agar mereka memikirkan.",
+      "text": "(mereka Kami utus) dengan membawa keterangan-keterangan (mukjizat) dan kitab-kitab. Dan Kami turunkan Aż-Żikr (Alquran) kepadamu, agar engkau menerangkan kepada manusia apa yang telah diturunkan kepada mereka[455] dan agar mereka memikirkan.",
       "surah": {
         "number": 16,
         "name": "سُورَةُ النَّحۡلِ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 1948,
-      "text": "atau Allah mengazab mereka dengan berangsur-angsur (sampai binasa).456) Maka sungguh, Tuhanmu Maha Pengasih, Maha Penyayang.",
+      "text": "atau Allah mengazab mereka dengan berangsur-angsur (sampai binasa).[456] Maka sungguh, Tuhanmu Maha Pengasih, Maha Penyayang.",
       "surah": {
         "number": 16,
         "name": "سُورَةُ النَّحۡلِ",
@@ -236,5 +236,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

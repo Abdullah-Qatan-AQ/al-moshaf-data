@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 863,
-      "text": "Dan (ingatlah) ketika Ibrahim berkata kepada ayahnya Azar,316) \"Pantaskah engkau menjadikan berhala-berhala itu sebagai tuhan? Sesungguhnya aku melihat engkau dan kaummu dalam kesesatan yang nyata.\"",
+      "text": "Dan (ingatlah) ketika Ibrahim berkata kepada ayahnya Azar,[316] \"Pantaskah engkau menjadikan berhala-berhala itu sebagai tuhan? Sesungguhnya aku melihat engkau dan kaummu dalam kesesatan yang nyata.\"",
       "surah": {
         "number": 6,
         "name": "سُورَةُ الأَنۡعَامِ",
@@ -138,7 +138,7 @@
     },
     {
       "number": 870,
-      "text": "Bagaimana aku takut kepada apa yang kamu persekutukan (dengan Allah), padahal kamu tidak takut dengan apa yang Allah sendiri tidak menurunkan keterangan kepadamu untuk mempersekutukan-Nya. Manakah dari kedua golongan itu yang lebih berhak mendapat keamanan (dari malapetaka), jika kamu mengetahui?\"317)",
+      "text": "Bagaimana aku takut kepada apa yang kamu persekutukan (dengan Allah), padahal kamu tidak takut dengan apa yang Allah sendiri tidak menurunkan keterangan kepadamu untuk mempersekutukan-Nya. Manakah dari kedua golongan itu yang lebih berhak mendapat keamanan (dari malapetaka), jika kamu mengetahui?\"[317]",
       "surah": {
         "number": 6,
         "name": "سُورَةُ الأَنۡعَامِ",
@@ -156,5 +156,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

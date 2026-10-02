@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 198,
-      "text": "Dan bunuhlah mereka di mana kamu temui mereka, dan usirlah mereka dari mana mereka telah mengusir kamu. Dan fitnah66) itu lebih kejam daripada pembunuhan. Dan janganlah kamu perangi mereka di Masjidilharam, kecuali jika mereka memerangi kamu di tempat itu. Jika mereka memerangi kamu, maka perangilah mereka. Demikianlah balasan bagi orang kafir.",
+      "text": "Dan bunuhlah mereka di mana kamu temui mereka, dan usirlah mereka dari mana mereka telah mengusir kamu. Dan fitnah[66] itu lebih kejam daripada pembunuhan. Dan janganlah kamu perangi mereka di Masjidilharam, kecuali jika mereka memerangi kamu di tempat itu. Jika mereka memerangi kamu, maka perangilah mereka. Demikianlah balasan bagi orang kafir.",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -62,7 +62,7 @@
     },
     {
       "number": 201,
-      "text": "Bulan haram dengan bulan haram,67) dan (terhadap) sesuatu yang dihormati68) berlaku (hukum) kisas. Oleh sebab itu barang siapa menyerang kamu, maka seranglah dia setimpal dengan serangannya terhadap kamu. Bertakwalah kepada Allah dan ketahuilah bahwa Allah beserta orang-orang yang bertakwa.",
+      "text": "Bulan haram dengan bulan haram,[67] dan (terhadap) sesuatu yang dihormati[68] berlaku (hukum) kisas. Oleh sebab itu barang siapa menyerang kamu, maka seranglah dia setimpal dengan serangannya terhadap kamu. Bertakwalah kepada Allah dan ketahuilah bahwa Allah beserta orang-orang yang bertakwa.",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 203,
-      "text": "Dan sempurnakanlah ibadah haji dan umrah karena Allah. Tetapi jika kamu terkepung (oleh musuh), maka (sembelihlah) hadyu69) yang mudah didapat, dan jangan kamu mencukur kepalamu sebelum hadyu sampai di tempat penyembelihannya. Jika ada di antara kamu yang sakit atau ada gangguan di kepalanya (lalu dia bercukur), maka dia wajib berfidyah, yaitu berpuasa, bersedekah atau berkurban. Apabila kamu dalam keadaan aman, maka siapa yang mengerjakan umrah sebelum haji, dia (wajib menyembelih) hadyu yang mudah didapat. Tetapi jika dia tidak mendapatkannya, maka dia (wajib) berpuasa tiga hari dalam (musim) haji dan tujuh (hari) setelah kamu kembali. Itulah sepuluh (hari) yang lengkap. Demikian itu, bagi orang yang keluarganya tidak ada (tinggal) di sekitar Masjidilharam. Bertakwalah kepada Allah dan ketahuilah bahwa Allah sangat keras hukuman-Nya.",
+      "text": "Dan sempurnakanlah ibadah haji dan umrah karena Allah. Tetapi jika kamu terkepung (oleh musuh), maka (sembelihlah) hadyu[69] yang mudah didapat, dan jangan kamu mencukur kepalamu sebelum hadyu sampai di tempat penyembelihannya. Jika ada di antara kamu yang sakit atau ada gangguan di kepalanya (lalu dia bercukur), maka dia wajib berfidyah, yaitu berpuasa, bersedekah atau berkurban. Apabila kamu dalam keadaan aman, maka siapa yang mengerjakan umrah sebelum haji, dia (wajib menyembelih) hadyu yang mudah didapat. Tetapi jika dia tidak mendapatkannya, maka dia (wajib) berpuasa tiga hari dalam (musim) haji dan tujuh (hari) setelah kamu kembali. Itulah sepuluh (hari) yang lengkap. Demikian itu, bagi orang yang keluarganya tidak ada (tinggal) di sekitar Masjidilharam. Bertakwalah kepada Allah dan ketahuilah bahwa Allah sangat keras hukuman-Nya.",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -118,5 +118,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -62,7 +62,7 @@
     },
     {
       "number": 445,
-      "text": "Dan sungguh, Allah telah memenuhi janji-Nya kepadamu, ketika kamu membunuh mereka dengan izin-Nya, sampai pada saat kamu lemah dan berselisih dalam urusan itu151) dan mengabaikan perintah Rasul setelah Allah memperlihatkan kepadamu apa yang kamu sukai.152) Di antara kamu ada orang yang menghendaki dunia dan di antara kamu ada (pula) orang yang menghendaki akhirat. Kemudian Allah memalingkan kamu dari mereka153) untuk mengujimu, tetapi Dia benar-benar telah memaafkan kamu. Dan Allah mempunyai karunia (yang diberikan) kepada orang-orang mukmin.",
+      "text": "Dan sungguh, Allah telah memenuhi janji-Nya kepadamu, ketika kamu membunuh mereka dengan izin-Nya, sampai pada saat kamu lemah dan berselisih dalam urusan itu[151] dan mengabaikan perintah Rasul setelah Allah memperlihatkan kepadamu apa yang kamu sukai.[152] Di antara kamu ada orang yang menghendaki dunia dan di antara kamu ada (pula) orang yang menghendaki akhirat. Kemudian Allah memalingkan kamu dari mereka[153] untuk mengujimu, tetapi Dia benar-benar telah memaafkan kamu. Dan Allah mempunyai karunia (yang diberikan) kepada orang-orang mukmin.",
       "surah": {
         "number": 3,
         "name": "سُورَةُ آلِ عِمۡرَانَ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 446,
-      "text": "(Ingatlah) ketika kamu lari dan tidak menoleh kepada siapa pun, sedang Rasul (Muhammad) yang berada di antara (kawan-kawan)mu yang lain memanggil kamu (kelompok yang lari), karena itu Allah menimpakan kepadamu kesedihan demi kesedihan,154) agar kamu tidak bersedih hati (lagi) terhadap apa yang luput dari kamu dan terhadap apa yang menimpamu. Dan Allah Mahateliti atas apa yang kamu kerjakan.",
+      "text": "(Ingatlah) ketika kamu lari dan tidak menoleh kepada siapa pun, sedang Rasul (Muhammad) yang berada di antara (kawan-kawan)mu yang lain memanggil kamu (kelompok yang lari), karena itu Allah menimpakan kepadamu kesedihan demi kesedihan,[154] agar kamu tidak bersedih hati (lagi) terhadap apa yang luput dari kamu dan terhadap apa yang menimpamu. Dan Allah Mahateliti atas apa yang kamu kerjakan.",
       "surah": {
         "number": 3,
         "name": "سُورَةُ آلِ عِمۡرَانَ",
@@ -99,5 +99,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

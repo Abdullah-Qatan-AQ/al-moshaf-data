@@ -24,7 +24,7 @@
     },
     {
       "number": 684,
-      "text": "Wahai Ahli Kitab! Sungguh, Rasul Kami telah datang kepadamu, menjelaskan kepadamu banyak hal dari (isi) kitab yang kamu sembunyikan, dan banyak (pula) yang dibiarkannya. Sungguh, telah datang kepadamu cahaya dari Allah, dan Kitab270) yang menjelaskan,",
+      "text": "Wahai Ahli Kitab! Sungguh, Rasul Kami telah datang kepadamu, menjelaskan kepadamu banyak hal dari (isi) kitab yang kamu sembunyikan, dan banyak (pula) yang dibiarkannya. Sungguh, telah datang kepadamu cahaya dari Allah, dan Kitab[270] yang menjelaskan,",
       "surah": {
         "number": 5,
         "name": "سُورَةُ المَائـِدَةِ",
@@ -80,5 +80,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

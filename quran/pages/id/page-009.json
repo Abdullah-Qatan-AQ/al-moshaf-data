@@ -43,7 +43,7 @@
     },
     {
       "number": 67,
-      "text": "Dan (ingatlah) ketika Musa memohon air untuk kaumnya, lalu Kami berfirman, \"Pukullah batu itu dengan tongkatmu!\" Maka memacarlah darinya dua belas mata air. Setiap suku telah mengetahui tempat minumnya (masing-masing).30) Makan dan minumlah dari rezeki (yang diberikan) Allah, dan janganlah kamu melakukan kejahatan di bumi dengan berbuat kerusakan.",
+      "text": "Dan (ingatlah) ketika Musa memohon air untuk kaumnya, lalu Kami berfirman, \"Pukullah batu itu dengan tongkatmu!\" Maka memacarlah darinya dua belas mata air. Setiap suku telah mengetahui tempat minumnya (masing-masing).[30] Makan dan minumlah dari rezeki (yang diberikan) Allah, dan janganlah kamu melakukan kejahatan di bumi dengan berbuat kerusakan.",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -80,5 +80,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

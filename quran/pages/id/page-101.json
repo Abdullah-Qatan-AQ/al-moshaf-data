@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 634,
-      "text": "(yaitu) orang yang menunggu-nunggu (peristiwa) yang akan terjadi pada dirimu. Apabila kamu mendapat kemenangan dari Allah mereka berkata, \"Bukankah kami (turut berperang) bersama kamu?\" Dan jika orang kafir mendapat bagian mereka berkata, \"Bukankah kami turut memenangkanmu,233) dan membela kamu dari orang mukmin?\" Maka Allah akan memberi keputusan di antara kamu pada hari Kiamat. Allah tidak akan memberi jalan kepada orang kafir untuk mengalahkan orang-orang beriman.",
+      "text": "(yaitu) orang yang menunggu-nunggu (peristiwa) yang akan terjadi pada dirimu. Apabila kamu mendapat kemenangan dari Allah mereka berkata, \"Bukankah kami (turut berperang) bersama kamu?\" Dan jika orang kafir mendapat bagian mereka berkata, \"Bukankah kami turut memenangkanmu,[233] dan membela kamu dari orang mukmin?\" Maka Allah akan memberi keputusan di antara kamu pada hari Kiamat. Allah tidak akan memberi jalan kepada orang kafir untuk mengalahkan orang-orang beriman.",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -24,7 +24,7 @@
     },
     {
       "number": 635,
-      "text": "Sesungguhnya orang munafik itu hendak menipu Allah, tetapi Allahlah yang menipu mereka. 234) Apabila mereka berdiri untuk salat mereka lakukan dengan malas. Mereka bermaksud riya` (ingin dipuji) di hadapan manusia. Dan mereka tidak mengingat Allah kecuali sedikit sekali.235)",
+      "text": "Sesungguhnya orang munafik itu hendak menipu Allah, tetapi Allahlah yang menipu mereka. [234] Apabila mereka berdiri untuk salat mereka lakukan dengan malas. Mereka bermaksud riya` (ingin dipuji) di hadapan manusia. Dan mereka tidak mengingat Allah kecuali sedikit sekali.[235]",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 639,
-      "text": "kecuali orang-orang yang bertobat dan memperbaiki diri236) dan berpegang teguh pada (agama) Allah dan dengan tulus ikhlas (menjalankan) agama mereka karena Allah. Maka mereka itu bersama-sama orang-orang yang beriman dan kelak Allah akan memberikan pahala yang besar kepada orang-orang yang beriman.",
+      "text": "kecuali orang-orang yang bertobat dan memperbaiki diri[236] dan berpegang teguh pada (agama) Allah dan dengan tulus ikhlas (menjalankan) agama mereka karena Allah. Maka mereka itu bersama-sama orang-orang yang beriman dan kelak Allah akan memberikan pahala yang besar kepada orang-orang yang beriman.",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 640,
-      "text": "Allah tidak akan menyiksamu, jika kamu bersyukur dan beriman. Dan Allah Maha Mensyukuri,237) Maha Mengetahui.",
+      "text": "Allah tidak akan menyiksamu, jika kamu bersyukur dan beriman. Dan Allah Maha Mensyukuri,[237] Maha Mengetahui.",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -137,5 +137,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

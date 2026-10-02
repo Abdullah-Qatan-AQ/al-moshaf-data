@@ -100,7 +100,7 @@
     },
     {
       "number": 854,
-      "text": "Katakanlah (Muhammad), \"Dialah yang berkuasa mengirimkan azab kepadamu, dari atas atau dari bawah kakimu312) atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebagian kamu keganasan sebagian yang lain.\" Perhatikanlah, bagaimana Kami menjelaskan berulang-ulang tanda-tanda (kekuasaan Kami)313) agar mereka memahami (nya).",
+      "text": "Katakanlah (Muhammad), \"Dialah yang berkuasa mengirimkan azab kepadamu, dari atas atau dari bawah kakimu[312] atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebagian kamu keganasan sebagian yang lain.\" Perhatikanlah, bagaimana Kami menjelaskan berulang-ulang tanda-tanda (kekuasaan Kami)[313] agar mereka memahami (nya).",
       "surah": {
         "number": 6,
         "name": "سُورَةُ الأَنۡعَامِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 855,
-      "text": "Dan kaummu mendustakannya (azab)314) padahal (azab) itu benar adanya. Katakanlah (Muhammad), \"Aku ini bukanlah penanggung jawab kamu.\"",
+      "text": "Dan kaummu mendustakannya (azab)[314] padahal (azab) itu benar adanya. Katakanlah (Muhammad), \"Aku ini bukanlah penanggung jawab kamu.\"",
       "surah": {
         "number": 6,
         "name": "سُورَةُ الأَنۡعَامِ",
@@ -175,5 +175,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

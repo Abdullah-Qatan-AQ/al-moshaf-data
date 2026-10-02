@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 2748,
-      "text": "Dan sekiranya mereka Kami kasihani, dan Kami lenyapkan malapetaka yang menimpa mereka,554) pasti mereka akan terus menerus terombang-ambing dalam kesesatan mereka.",
+      "text": "Dan sekiranya mereka Kami kasihani, dan Kami lenyapkan malapetaka yang menimpa mereka,[554] pasti mereka akan terus menerus terombang-ambing dalam kesesatan mereka.",
       "surah": {
         "number": 23,
         "name": "سُورَةُ المُؤۡمِنُونَ",
@@ -24,7 +24,7 @@
     },
     {
       "number": 2749,
-      "text": "Dan sungguh Kami telah menimpakan siksaan kepada mereka,555) tetapi mereka tidak mau tunduk kepada Tuhannya, dan (juga) tidak merendahkan diri.",
+      "text": "Dan sungguh Kami telah menimpakan siksaan kepada mereka,[555] tetapi mereka tidak mau tunduk kepada Tuhannya, dan (juga) tidak merendahkan diri.",
       "surah": {
         "number": 23,
         "name": "سُورَةُ المُؤۡمِنُونَ",
@@ -157,7 +157,7 @@
     },
     {
       "number": 2756,
-      "text": "Sungguh, yang demikian ini sudah dijanjikan kepada kami dan kepada nenek moyang kami dahulu,556) ini hanyalah dongeng orang-orang terdahulu!\"",
+      "text": "Sungguh, yang demikian ini sudah dijanjikan kepada kami dan kepada nenek moyang kami dahulu,[556] ini hanyalah dongeng orang-orang terdahulu!\"",
       "surah": {
         "number": 23,
         "name": "سُورَةُ المُؤۡمِنُونَ",
@@ -289,5 +289,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

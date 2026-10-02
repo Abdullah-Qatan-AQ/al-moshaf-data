@@ -62,7 +62,7 @@
     },
     {
       "number": 935,
-      "text": "Dan untuk orang-orang Yahudi, Kami haramkan semua (hewan) yang berkuku,327) dan Kami haramkan untuk mereka lemak sapi dan domba, kecuali yang melekat di punggungnya, atau yang dalam isi perutnya, atau yang bercampur dengan tulang. Demikianlah Kami menghukum mereka karena kedurhakaannya. Dan sungguh, Kami Mahabenar.",
+      "text": "Dan untuk orang-orang Yahudi, Kami haramkan semua (hewan) yang berkuku,[327] dan Kami haramkan untuk mereka lemak sapi dan domba, kecuali yang melekat di punggungnya, atau yang dalam isi perutnya, atau yang bercampur dengan tulang. Demikianlah Kami menghukum mereka karena kedurhakaannya. Dan sungguh, Kami Mahabenar.",
       "surah": {
         "number": 6,
         "name": "سُورَةُ الأَنۡعَامِ",
@@ -80,5 +80,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

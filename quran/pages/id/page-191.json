@@ -24,7 +24,7 @@
     },
     {
       "number": 1263,
-      "text": "Wahai orang-orang yang beriman! Sesungguhnya orang-orang musyrik itu najis (kotor jiwa), karena itu janganlah mereka mendekati Masjidilharam setelah tahun ini.371) Dan jika kamu khawatir menjadi miskin (karena orang kafir tidak datang), maka Allah nanti akan memberikan kekayaan kepadamu dari karunia-Nya, jika Dia menghendaki. Sesungguhnya Allah Maha Mengetahui, Mahabijaksana.",
+      "text": "Wahai orang-orang yang beriman! Sesungguhnya orang-orang musyrik itu najis (kotor jiwa), karena itu janganlah mereka mendekati Masjidilharam setelah tahun ini.[371] Dan jika kamu khawatir menjadi miskin (karena orang kafir tidak datang), maka Allah nanti akan memberikan kekayaan kepadamu dari karunia-Nya, jika Dia menghendaki. Sesungguhnya Allah Maha Mengetahui, Mahabijaksana.",
       "surah": {
         "number": 9,
         "name": "سُورَةُ التَّوۡبَةِ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 1266,
-      "text": "Mereka menjadikan orang-orang alim (Yahudi) dan rahib-rahibnya (Nasrani) sebagai tuhan selain Allah,372) dan (juga) Al-Masih putra Maryam; padahal mereka hanya disuruh menyembah Tuhan Yang Maha Esa; tidak ada tuhan yang berhak disembah selain Dia. Mahasuci Dia dari apa yang mereka persekutukan.",
+      "text": "Mereka menjadikan orang-orang alim (Yahudi) dan rahib-rahibnya (Nasrani) sebagai tuhan selain Allah,[372] dan (juga) Al-Masih putra Maryam; padahal mereka hanya disuruh menyembah Tuhan Yang Maha Esa; tidak ada tuhan yang berhak disembah selain Dia. Mahasuci Dia dari apa yang mereka persekutukan.",
       "surah": {
         "number": 9,
         "name": "سُورَةُ التَّوۡبَةِ",
@@ -99,5 +99,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

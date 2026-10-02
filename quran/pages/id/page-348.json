@@ -195,7 +195,7 @@
     },
     {
       "number": 2773,
-      "text": "agar aku dapat berbuat kebajikan yang telah aku tinggalkan.\" Sekali-kali tidak! Sungguh itu adalah dalih yang diucapkannya saja. Dan dihadapan mereka ada barzakh557) sampai pada hari mereka dibangkitkan.",
+      "text": "agar aku dapat berbuat kebajikan yang telah aku tinggalkan.\" Sekali-kali tidak! Sungguh itu adalah dalih yang diucapkannya saja. Dan dihadapan mereka ada barzakh[557] sampai pada hari mereka dibangkitkan.",
       "surah": {
         "number": 23,
         "name": "سُورَةُ المُؤۡمِنُونَ",
@@ -289,5 +289,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

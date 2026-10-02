@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 2262,
-      "text": "\"Wahai Yahya! Ambillah (pelajarilah)501) Kitab (Taurat) itu dengan sungguh-sungguh.\" Dan Kami berikan hikmah kepadanya (Yahya)502) selagi dia masih kanak-kanak,",
+      "text": "\"Wahai Yahya! Ambillah (pelajarilah)[501] Kitab (Taurat) itu dengan sungguh-sungguh.\" Dan Kami berikan hikmah kepadanya (Yahya)[502] selagi dia masih kanak-kanak,",
       "surah": {
         "number": 19,
         "name": "سُورَةُ مَرۡيَمَ",
@@ -270,5 +270,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

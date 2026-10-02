@@ -81,7 +81,7 @@
     },
     {
       "number": 3199,
-      "text": "Seorang yang mempunyai ilmu dari Kitab598) berkata, \"Aku akan membawa singgasana itu kepadamu sebelum matamu berkedip.\" Maka ketika dia (Sulaiman) melihat singgasana itu terletak di hadapannya, dia pun berkata, \"Ini termasuk karunia Tuhanku untuk mengujiku, apakah aku bersyukur atau mengingkari (nikmat-Nya). Barang siapa bersyukur, maka sesungguhnya dia bersyukur untuk (kebaikan) dirinya sendiri, dan barang siapa ingkar, maka sesungguhnya Tuhanku Mahakaya, Mahamulia.\"",
+      "text": "Seorang yang mempunyai ilmu dari Kitab[598] berkata, \"Aku akan membawa singgasana itu kepadamu sebelum matamu berkedip.\" Maka ketika dia (Sulaiman) melihat singgasana itu terletak di hadapannya, dia pun berkata, \"Ini termasuk karunia Tuhanku untuk mengujiku, apakah aku bersyukur atau mengingkari (nikmat-Nya). Barang siapa bersyukur, maka sesungguhnya dia bersyukur untuk (kebaikan) dirinya sendiri, dan barang siapa ingkar, maka sesungguhnya Tuhanku Mahakaya, Mahamulia.\"",
       "surah": {
         "number": 27,
         "name": "سُورَةُ النَّمۡلِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 3201,
-      "text": "Maka ketika dia (Balqis) datang, ditanyakanlah (kepadanya), \"Serupa inikah singgasanamu?\" Dia (Balqis) menjawab, \"Seakan-akan itulah dia.\" (Dan dia Balqis berkata), \"Kami telah diberi pengetahuan sebelumnya599) dan kami adalah orang-orang yang berserah diri (kepada Allah).\"",
+      "text": "Maka ketika dia (Balqis) datang, ditanyakanlah (kepadanya), \"Serupa inikah singgasanamu?\" Dia (Balqis) menjawab, \"Seakan-akan itulah dia.\" (Dan dia Balqis berkata), \"Kami telah diberi pengetahuan sebelumnya[599] dan kami adalah orang-orang yang berserah diri (kepada Allah).\"",
       "surah": {
         "number": 27,
         "name": "سُورَةُ النَّمۡلِ",
@@ -175,5 +175,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

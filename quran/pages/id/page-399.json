@@ -62,7 +62,7 @@
     },
     {
       "number": 3367,
-      "text": "Dan Kami anugerahkan kepada Ibrahim: Ishak dan Yakub, dan Kami jadikan kenabian dan kitab kepada keturunannya, dan Kami berikan kepadanya balasannya di dunia;621) dan sesungguhnya dia di akhirat, termasuk orang yang saleh.",
+      "text": "Dan Kami anugerahkan kepada Ibrahim: Ishak dan Yakub, dan Kami jadikan kenabian dan kitab kepada keturunannya, dan Kami berikan kepadanya balasannya di dunia;[621] dan sesungguhnya dia di akhirat, termasuk orang yang saleh.",
       "surah": {
         "number": 29,
         "name": "سُورَةُ العَنكَبُوتِ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 3369,
-      "text": "Apakah pantas kamu mendatangi laki-laki, menyamun622) dan mengerjakan kemungkaran di tempat-tempat pertemuanmu?\" Maka jawaban kaumnya tidak lain hanya mengatakan, \"Datangkanlah kepada kami azab Allah, jika engkau termasuk orang-orang yang benar.\"",
+      "text": "Apakah pantas kamu mendatangi laki-laki, menyamun[622] dan mengerjakan kemungkaran di tempat-tempat pertemuanmu?\" Maka jawaban kaumnya tidak lain hanya mengatakan, \"Datangkanlah kepada kami azab Allah, jika engkau termasuk orang-orang yang benar.\"",
       "surah": {
         "number": 29,
         "name": "سُورَةُ العَنكَبُوتِ",
@@ -137,5 +137,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -24,7 +24,7 @@
     },
     {
       "number": 539,
-      "text": "(Yaitu) di antara orang Yahudi, yang mengubah perkataan dari tempat-tempatnya.197) Dan mereka berkata, \"Kami mendengar, tetapi kami tidak mau menurutinya.\" Dan (mereka mengatakan pula), \"Dengarlah,\" sedang (engkau Muhammad sebenarnya) tidak mendengar apa pun.\"198) Dan (mereka mengatakan), \"Rā'inā\"199) dengan memutarbalikkan lidahnya dan mencela agama. Sekiranya mereka mengatakan, \"Kami mendengar dan patuh, dan dengarlah, dan perhatikanlah kami,\" tentulah itu lebih baik bagi mereka dan lebih tepat, tetapi Allah melaknat mereka, karena kekafiran mereka. Mereka tidak beriman kecuali sedikit sekali.200)",
+      "text": "(Yaitu) di antara orang Yahudi, yang mengubah perkataan dari tempat-tempatnya.[197] Dan mereka berkata, \"Kami mendengar, tetapi kami tidak mau menurutinya.\" Dan (mereka mengatakan pula), \"Dengarlah,\" sedang (engkau Muhammad sebenarnya) tidak mendengar apa pun.\"[198] Dan (mereka mengatakan), \"Rā'inā\"[199] dengan memutarbalikkan lidahnya dan mencela agama. Sekiranya mereka mengatakan, \"Kami mendengar dan patuh, dan dengarlah, dan perhatikanlah kami,\" tentulah itu lebih baik bagi mereka dan lebih tepat, tetapi Allah melaknat mereka, karena kekafiran mereka. Mereka tidak beriman kecuali sedikit sekali.[200]",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -43,7 +43,7 @@
     },
     {
       "number": 540,
-      "text": "Wahai orang-orang yang telah diberi Kitab! Berimanlah kamu kepada apa yang telah Kami turunkan (Al-Qur`an) yang membenarkan Kitab yang ada pada kamu, sebelum Kami mengubah wajah-wajah(mu), lalu Kami putar ke belakang 201) atau Kami laknat mereka sebagaimana Kami melaknat orang-orang (yang berbuat maksiat) pada hari Sabat (Sabtu). Dan ketetapan Allah pasti berlaku.",
+      "text": "Wahai orang-orang yang telah diberi Kitab! Berimanlah kamu kepada apa yang telah Kami turunkan (Al-Qur`an) yang membenarkan Kitab yang ada pada kamu, sebelum Kami mengubah wajah-wajah(mu), lalu Kami putar ke belakang [201] atau Kami laknat mereka sebagaimana Kami melaknat orang-orang (yang berbuat maksiat) pada hari Sabat (Sabtu). Dan ketetapan Allah pasti berlaku.",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 544,
-      "text": "Tidakkah engkau memperhatikan orang-orang yang diberi bagian dari Kitab (Taurat)? Mereka percaya kepada Jibt dan Ṭāgūt,202) dan mengatakan kepada orang-orang kafir (musyrik Mekkah), bahwa mereka itu lebih benar jalannya daripada orang-orang yang beriman.",
+      "text": "Tidakkah engkau memperhatikan orang-orang yang diberi bagian dari Kitab (Taurat)? Mereka percaya kepada Jibt dan Ṭāgūt,[202] dan mengatakan kepada orang-orang kafir (musyrik Mekkah), bahwa mereka itu lebih benar jalannya daripada orang-orang yang beriman.",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -137,5 +137,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

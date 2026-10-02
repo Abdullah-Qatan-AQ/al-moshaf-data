@@ -100,7 +100,7 @@
     },
     {
       "number": 1654,
-      "text": "Dan saudara-saudara Yusuf datang (ke Mesir) lalu mereka masuk ke (tempat)nya. Maka dia (Yusuf) mengenal mereka, sedangkan mereka tidak kenal (lagi) kepadanya.414)",
+      "text": "Dan saudara-saudara Yusuf datang (ke Mesir) lalu mereka masuk ke (tempat)nya. Maka dia (Yusuf) mengenal mereka, sedangkan mereka tidak kenal (lagi) kepadanya.[414]",
       "surah": {
         "number": 12,
         "name": "سُورَةُ يُوسُفَ",
@@ -176,7 +176,7 @@
     },
     {
       "number": 1658,
-      "text": "Dan dia (Yusuf) berkata kepada pelayan-pelayannya, \"Masukkanlah barang-barang (penukar) mereka415) ke dalam karung-karungnya, agar mereka mengetahuinya apabila telah kembali kepada keluarganya, mudah-mudahan mereka kembali lagi.416)",
+      "text": "Dan dia (Yusuf) berkata kepada pelayan-pelayannya, \"Masukkanlah barang-barang (penukar) mereka[415] ke dalam karung-karungnya, agar mereka mengetahuinya apabila telah kembali kepada keluarganya, mudah-mudahan mereka kembali lagi.[416]",
       "surah": {
         "number": 12,
         "name": "سُورَةُ يُوسُفَ",
@@ -213,5 +213,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

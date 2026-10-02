@@ -24,7 +24,7 @@
     },
     {
       "number": 4168,
-      "text": "(yaitu) orang-orang yang memperdebatkan ayat-ayat Allah tanpa alasan yang sampai kepada mereka.770) Sangat besar kemurkaan (bagi mereka) di sisi Allah dan orang-orang yang beriman. Demikianlah Allah mengunci hati setiap orang yang sombong dan berlaku sewenang-wenang.",
+      "text": "(yaitu) orang-orang yang memperdebatkan ayat-ayat Allah tanpa alasan yang sampai kepada mereka.[770] Sangat besar kemurkaan (bagi mereka) di sisi Allah dan orang-orang yang beriman. Demikianlah Allah mengunci hati setiap orang yang sombong dan berlaku sewenang-wenang.",
       "surah": {
         "number": 40,
         "name": "سُورَةُ غَافِرٍ",
@@ -137,5 +137,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

@@ -24,7 +24,7 @@
     },
     {
       "number": 6195,
-      "text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.926)",
+      "text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.[926]",
       "surah": {
         "number": 106,
         "name": "سُورَةُ قُرَيۡشٍ",
@@ -157,7 +157,7 @@
     },
     {
       "number": 6202,
-      "text": "(yaitu) orang-orang yang lalai terhadap salatnya,927)",
+      "text": "(yaitu) orang-orang yang lalai terhadap salatnya,[927]",
       "surah": {
         "number": 107,
         "name": "سُورَةُ المَاعُونِ",
@@ -176,7 +176,7 @@
     },
     {
       "number": 6203,
-      "text": "yang berbuat riya,928)",
+      "text": "yang berbuat riya,[928]",
       "surah": {
         "number": 107,
         "name": "سُورَةُ المَاعُونِ",
@@ -195,7 +195,7 @@
     },
     {
       "number": 6204,
-      "text": "dan enggan (memberikan) bantuan.929)",
+      "text": "dan enggan (memberikan) bantuan.[929]",
       "surah": {
         "number": 107,
         "name": "سُورَةُ المَاعُونِ",
@@ -270,5 +270,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

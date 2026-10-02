@@ -176,7 +176,7 @@
     },
     {
       "number": 5580,
-      "text": "dan bertaut betis (kiri) dengan betis (kanan),881)",
+      "text": "dan bertaut betis (kiri) dengan betis (kanan),[881]",
       "surah": {
         "number": 75,
         "name": "سُورَةُ القِيَامَةِ",
@@ -423,7 +423,7 @@
     },
     {
       "number": 5593,
-      "text": "Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur882) yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat.",
+      "text": "Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur[882] yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat.",
       "surah": {
         "number": 76,
         "name": "سُورَةُ الإِنسَانِ",
@@ -480,7 +480,7 @@
     },
     {
       "number": 5596,
-      "text": "Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas (berisi minuman) yang campurannya adalah air kafur,883)",
+      "text": "Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas (berisi minuman) yang campurannya adalah air kafur,[883]",
       "surah": {
         "number": 76,
         "name": "سُورَةُ الإِنسَانِ",
@@ -498,5 +498,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

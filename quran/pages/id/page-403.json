@@ -5,7 +5,7 @@
   "ayahs": [
     {
       "number": 3393,
-      "text": "Dan mereka meminta kepadamu agar segera diturunkan azab. Kalau bukan karena waktunya yang telah ditetapkan,629) niscaya datang azab kepada mereka, dan (azab itu) pasti akan datang kepada mereka dengan tiba-tiba, sedang mereka tidak menyadarinya.",
+      "text": "Dan mereka meminta kepadamu agar segera diturunkan azab. Kalau bukan karena waktunya yang telah ditetapkan,[629] niscaya datang azab kepada mereka, dan (azab itu) pasti akan datang kepada mereka dengan tiba-tiba, sedang mereka tidak menyadarinya.",
       "surah": {
         "number": 29,
         "name": "سُورَةُ العَنكَبُوتِ",
@@ -213,5 +213,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

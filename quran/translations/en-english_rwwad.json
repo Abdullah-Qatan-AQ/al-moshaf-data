@@ -1,14 +1,18 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "language": "en",
   "edition": "english_rwwad",
   "title": "English Translation — Rowwad Translation Center",
   "translator": "Rowwad Translation Center team",
   "source": "QuranEnc.com",
   "sourceUrl": "https://quranenc.com/en/browse/english_rwwad",
-  "sourceDownload": "https://quranenc.com/downloads/sqlite/english_rwwad.zip",
-  "license": "QuranEnc redistribution terms",
-  "licenseUrl": "https://quranenc.com/en/home",
+  "sourceDownload": "https://quranenc.com/en/home/d/csv/english_rwwad",
+  "sourceDownloadFormat": "CSV; converted to this JSON without changing text or footnotes",
+  "sourceVersion": "v1.0.19-csv.1",
+  "sourceLastUpdate": "2026-03-12 23:45:25",
+  "sourceCheckUrl": "https://quranenc.com/check/english_rwwad/v1.0.19-csv.1",
+  "license": "QuranEnc redistribution terms (commercial permission not stated explicitly)",
+  "licenseUrl": "https://quranenc.com/en/home/api",
   "redistribution": {
     "verbatim": true,
     "requiresAttribution": true,
@@ -16,7 +20,8 @@
     "requiresKeepingTranscriptInfo": true,
     "requiresNoModification": true,
     "requiresUpstreamNotificationOfNotes": true,
-    "requiresUpdatingToLatestVersion": true
+    "requiresUpdatingToLatestVersion": true,
+    "commercialUseExplicitlyGranted": false
   },
   "items": [
     {

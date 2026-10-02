@@ -24,7 +24,7 @@
     },
     {
       "number": 735,
-      "text": "Dan sekiranya mereka sungguh-sungguh menjalankan (hukum) Taurat, Injil dan (Al-Qur`an) yang diturunkan kepada mereka dari Tuhannya, niscaya mereka akan mendapat makanan dari atas mereka dan dari bawah kaki mereka.286) Di antara mereka ada sekelompok yang jujur dan taat. Dan banyak di antara mereka sangat buruk apa yang mereka kerjakan.",
+      "text": "Dan sekiranya mereka sungguh-sungguh menjalankan (hukum) Taurat, Injil dan (Al-Qur`an) yang diturunkan kepada mereka dari Tuhannya, niscaya mereka akan mendapat makanan dari atas mereka dan dari bawah kaki mereka.[286] Di antara mereka ada sekelompok yang jujur dan taat. Dan banyak di antara mereka sangat buruk apa yang mereka kerjakan.",
       "surah": {
         "number": 5,
         "name": "سُورَةُ المَائـِدَةِ",
@@ -43,7 +43,7 @@
     },
     {
       "number": 736,
-      "text": "Wahai Rasul! Sampaikanlah apa yang diturunkan Tuhanmu kepadamu. Jika tidak engkau lakukan (apa yang diperintahkan itu) berarti engkau tidak menyampaikan risalah-Nya. Dan Allah memelihara engkau dari (gangguan) manusia.287) Sungguh, Allah tidak memberi petunjuk kepada orang-orang kafir.",
+      "text": "Wahai Rasul! Sampaikanlah apa yang diturunkan Tuhanmu kepadamu. Jika tidak engkau lakukan (apa yang diperintahkan itu) berarti engkau tidak menyampaikan risalah-Nya. Dan Allah memelihara engkau dari (gangguan) manusia.[287] Sungguh, Allah tidak memberi petunjuk kepada orang-orang kafir.",
       "surah": {
         "number": 5,
         "name": "سُورَةُ المَائـِدَةِ",
@@ -100,7 +100,7 @@
     },
     {
       "number": 739,
-      "text": "Sesungguhnya Kami telah mengambil perjanjian dari Bani Israil,288) dan telah Kami utus kepada mereka Rasul-rasul. Tetapi setiap rasul datang kepada mereka dengan membawa apa yang tidak sesuai dengan keinginan mereka, (maka) sebagian (dari Rasul itu) mereka dustakan kali dan sebagian yang lain mereka bunuh.",
+      "text": "Sesungguhnya Kami telah mengambil perjanjian dari Bani Israil,[288] dan telah Kami utus kepada mereka Rasul-rasul. Tetapi setiap rasul datang kepada mereka dengan membawa apa yang tidak sesuai dengan keinginan mereka, (maka) sebagian (dari Rasul itu) mereka dustakan kali dan sebagian yang lain mereka bunuh.",
       "surah": {
         "number": 5,
         "name": "سُورَةُ المَائـِدَةِ",
@@ -118,5 +118,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

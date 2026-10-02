@@ -24,7 +24,7 @@
     },
     {
       "number": 172,
-      "text": "Dan di antara manusia ada orang yang menyembah tuhan selain Allah sebagai tandingan, yang mereka cintai seperti mencintai Allah. Adapun orang-orang yang beriman sangat besar cintanya kepada Allah. Sekiranya orang-orang yang berbuat zalim itu57) melihat, ketika mereka melihat azab (pada hari Kiamat), bahwa kekuatan itu semuanya milik Allah dan bahwa Allah sangat berat azab-Nya (niscaya mereka menyesal).",
+      "text": "Dan di antara manusia ada orang yang menyembah tuhan selain Allah sebagai tandingan, yang mereka cintai seperti mencintai Allah. Adapun orang-orang yang beriman sangat besar cintanya kepada Allah. Sekiranya orang-orang yang berbuat zalim itu[57] melihat, ketika mereka melihat azab (pada hari Kiamat), bahwa kekuatan itu semuanya milik Allah dan bahwa Allah sangat berat azab-Nya (niscaya mereka menyesal).",
       "surah": {
         "number": 2,
         "name": "سُورَةُ البَقَرَةِ",
@@ -118,5 +118,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

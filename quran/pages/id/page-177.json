@@ -24,7 +24,7 @@
     },
     {
       "number": 1162,
-      "text": "Sesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah357) gemetar hatinya, dan apabila dibacakan ayat-ayat-Nya kepada mereka, bertambah (kuat) imannya dan hanya kepada Tuhan mereka bertawakal,",
+      "text": "Sesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah[357] gemetar hatinya, dan apabila dibacakan ayat-ayat-Nya kepada mereka, bertambah (kuat) imannya dan hanya kepada Tuhan mereka bertawakal,",
       "surah": {
         "number": 8,
         "name": "سُورَةُ الأَنفَالِ",
@@ -81,7 +81,7 @@
     },
     {
       "number": 1165,
-      "text": "Sebagaimana Tuhanmu menyuruhmu pergi dari rumahmu dengan kebenaran,358) meskipun sesungguhnya sebagian dari orang-orang yang beriman itu tidak menyukainya,",
+      "text": "Sebagaimana Tuhanmu menyuruhmu pergi dari rumahmu dengan kebenaran,[358] meskipun sesungguhnya sebagian dari orang-orang yang beriman itu tidak menyukainya,",
       "surah": {
         "number": 8,
         "name": "سُورَةُ الأَنفَالِ",
@@ -119,7 +119,7 @@
     },
     {
       "number": 1167,
-      "text": "Dan (ingatlah) ketika Allah menjanjikan kepadamu bahwa salah satu dari dua golongan (yang kamu hadapi) adalah untukmu, sedang kamu menginginkan bahwa yang tidak mempunyai kekuatan senjatalah359) untukmu. Tetapi Allah hendak membenarkan yang benar dengan ayat-ayat-Nya dan memusnahkan orang-orang kafir sampai ke akar-akarnya,",
+      "text": "Dan (ingatlah) ketika Allah menjanjikan kepadamu bahwa salah satu dari dua golongan (yang kamu hadapi) adalah untukmu, sedang kamu menginginkan bahwa yang tidak mempunyai kekuatan senjatalah[359] untukmu. Tetapi Allah hendak membenarkan yang benar dengan ayat-ayat-Nya dan memusnahkan orang-orang kafir sampai ke akar-akarnya,",
       "surah": {
         "number": 8,
         "name": "سُورَةُ الأَنفَالِ",
@@ -156,5 +156,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }

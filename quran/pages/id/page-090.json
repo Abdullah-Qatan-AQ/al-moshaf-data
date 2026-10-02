@@ -43,7 +43,7 @@
     },
     {
       "number": 570,
-      "text": "Tidakkah engkau memperhatikan orang-orang yang dikatakan kepada mereka,206) \"Tahanlah tanganmu (dari berperang), laksanakanlah salat dan tunaikanlah zakat!\" Ketika mereka diwajibkan berperang, tiba-tiba sebagian mereka (golongan munafik) takut kepada manusia (musuh), seperti takutnya kepada Allah, bahkan lebih takut (dari itu). Mereka berkata, \"Ya Tuhan kami, mengapa Engkau wajibkan berperang kepada kami? Mengapa tidak Engkau tunda (kewajiban berperang) kepada kami beberapa waktu lagi?\" Katakanlah, \"Kesenangan di dunia ini hanya sedikit dan di akhirat itu lebih baik bagi orang-orang yang bertakwa dan kamu tidak akan dizalimi sedikit pun.\"",
+      "text": "Tidakkah engkau memperhatikan orang-orang yang dikatakan kepada mereka,[206] \"Tahanlah tanganmu (dari berperang), laksanakanlah salat dan tunaikanlah zakat!\" Ketika mereka diwajibkan berperang, tiba-tiba sebagian mereka (golongan munafik) takut kepada manusia (musuh), seperti takutnya kepada Allah, bahkan lebih takut (dari itu). Mereka berkata, \"Ya Tuhan kami, mengapa Engkau wajibkan berperang kepada kami? Mengapa tidak Engkau tunda (kewajiban berperang) kepada kami beberapa waktu lagi?\" Katakanlah, \"Kesenangan di dunia ini hanya sedikit dan di akhirat itu lebih baik bagi orang-orang yang bertakwa dan kamu tidak akan dizalimi sedikit pun.\"",
       "surah": {
         "number": 4,
         "name": "سُورَةُ النِّسَاءِ",
@@ -99,5 +99,7 @@
       "sajda": false
     }
   ],
-  "language": "id"
+  "language": "id",
+  "sourceVersion": "v1.0.1-csv.1",
+  "sourceLastUpdate": "2025-06-23 10:58:32"
 }
