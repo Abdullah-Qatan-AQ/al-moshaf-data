@@ -33,16 +33,31 @@
       "source": "Tafsir Center for Quranic Studies",
       "license": "CC BY 4.0 as declared by the source database",
       "file": "tafsir/en-mukhtasar.json",
-      "commercialRedistribution": "Verify rights-holder permission before commercial distribution"
+      "commercialRedistribution": "Permitted by the official dataset card under CC BY 4.0 with attribution to Tafsir Center for Quranic Studies and King Fahd Complex."
     },
-    "arabic": {"status": "not-bundled", "reason": "Redistribution permission not verified"},
-    "indonesian": {"status": "not-bundled", "reason": "Redistribution permission not verified"}
+    "arabic": {
+      "status": "not-bundled",
+      "reason": "Redistribution permission not verified"
+    },
+    "indonesian": {
+      "status": "not-bundled",
+      "reason": "Redistribution permission not verified"
+    }
   },
   "devotional": {
-    "adhkar": {"file": "devotional/adhkar.json", "license": "MIT"},
-    "namesOfAllah": {"file": "devotional/names-of-allah.json", "license": "MIT"},
-    "ruqyah": {"file": "devotional/ruqyah.json", "license": "MIT"},
+    "adhkar": {
+      "file": "devotional/adhkar.json",
+      "license": "MIT"
+    },
+    "namesOfAllah": {
+      "file": "devotional/names-of-allah.json",
+      "license": "MIT"
+    },
+    "ruqyah": {
+      "file": "devotional/ruqyah.json",
+      "license": "MIT"
+    },
     "appIntegration": "These files are distributed for reuse but are intentionally not fetched by the application."
   },
-  "fallback": "Use the original upstream APIs when a repository file is unavailable."
+  "fallback": "Use the original upstream APIs for Quran pages/translations only when a repository file is unavailable; do not use API tafsir editions without verified commercial redistribution terms."
 }
