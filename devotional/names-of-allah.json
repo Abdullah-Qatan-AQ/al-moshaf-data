@@ -1,0 +1,605 @@
+{
+  "schemaVersion": 1,
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 Abdullah Qatan",
+  "source": "Original content authored/curated for the Al-Moshaf repository",
+  "sourceRepository": "https://github.com/Abdullah-Qatan-AQ/al-moshaf-",
+  "notice": "Hadith and Quran references are citations. This license covers the repository-authored data fields and translations, not external audio or third-party editions.",
+  "kind": "names-of-allah",
+  "items": [
+    {
+      "number": 1,
+      "arabic": "الرَّحْمَن",
+      "english": "The Most Merciful",
+      "indonesian": "Yang Maha Pengasih"
+    },
+    {
+      "number": 2,
+      "arabic": "الرَّحِيم",
+      "english": "The Especially Merciful",
+      "indonesian": "Yang Maha Penyayang"
+    },
+    {
+      "number": 3,
+      "arabic": "الْمَلِك",
+      "english": "The King",
+      "indonesian": "Raja"
+    },
+    {
+      "number": 4,
+      "arabic": "الْقُدُّوس",
+      "english": "The Most Holy",
+      "indonesian": "Yang Mahasuci"
+    },
+    {
+      "number": 5,
+      "arabic": "السَّلَام",
+      "english": "The Source of Peace",
+      "indonesian": "Sumber Kedamaian"
+    },
+    {
+      "number": 6,
+      "arabic": "الْمُؤْمِن",
+      "english": "The Granter of Security",
+      "indonesian": "Pemberi Keamanan"
+    },
+    {
+      "number": 7,
+      "arabic": "الْمُهَيْمِن",
+      "english": "The Guardian",
+      "indonesian": "Yang Memelihara"
+    },
+    {
+      "number": 8,
+      "arabic": "الْعَزِيز",
+      "english": "The Almighty",
+      "indonesian": "Yang Mahaperkasa"
+    },
+    {
+      "number": 9,
+      "arabic": "الْجَبَّار",
+      "english": "The Compeller",
+      "indonesian": "Yang Maha Memaksa"
+    },
+    {
+      "number": 10,
+      "arabic": "الْمُتَكَبِّر",
+      "english": "The Supreme",
+      "indonesian": "Yang Mahabesar"
+    },
+    {
+      "number": 11,
+      "arabic": "الْخَالِق",
+      "english": "The Creator",
+      "indonesian": "Sang Pencipta"
+    },
+    {
+      "number": 12,
+      "arabic": "الْبَارِئ",
+      "english": "The Originator",
+      "indonesian": "Yang Mengadakan"
+    },
+    {
+      "number": 13,
+      "arabic": "الْمُصَوِّر",
+      "english": "The Fashioner",
+      "indonesian": "Yang Membentuk"
+    },
+    {
+      "number": 14,
+      "arabic": "الْغَفَّار",
+      "english": "The Ever-Forgiving",
+      "indonesian": "Yang Maha Pengampun"
+    },
+    {
+      "number": 15,
+      "arabic": "الْقَهَّار",
+      "english": "The Subduer",
+      "indonesian": "Yang Maha Menundukkan"
+    },
+    {
+      "number": 16,
+      "arabic": "الْوَهَّاب",
+      "english": "The Bestower",
+      "indonesian": "Yang Maha Pemberi"
+    },
+    {
+      "number": 17,
+      "arabic": "الرَّزَّاق",
+      "english": "The Provider",
+      "indonesian": "Pemberi Rezeki"
+    },
+    {
+      "number": 18,
+      "arabic": "الْفَتَّاح",
+      "english": "The Opener",
+      "indonesian": "Yang Maha Pembuka"
+    },
+    {
+      "number": 19,
+      "arabic": "الْعَلِيم",
+      "english": "The All-Knowing",
+      "indonesian": "Yang Maha Mengetahui"
+    },
+    {
+      "number": 20,
+      "arabic": "الْقَابِض",
+      "english": "The Withholder",
+      "indonesian": "Yang Menyempitkan"
+    },
+    {
+      "number": 21,
+      "arabic": "الْبَاسِط",
+      "english": "The Expander",
+      "indonesian": "Yang Melapangkan"
+    },
+    {
+      "number": 22,
+      "arabic": "الْخَافِض",
+      "english": "The Abaser",
+      "indonesian": "Yang Merendahkan"
+    },
+    {
+      "number": 23,
+      "arabic": "الرَّافِع",
+      "english": "The Exalter",
+      "indonesian": "Yang Meninggikan"
+    },
+    {
+      "number": 24,
+      "arabic": "الْمُعِزّ",
+      "english": "The Honorer",
+      "indonesian": "Yang Memuliakan"
+    },
+    {
+      "number": 25,
+      "arabic": "المُذِلّ",
+      "english": "The Humiliator",
+      "indonesian": "Yang Menghinakan"
+    },
+    {
+      "number": 26,
+      "arabic": "السَّمِيع",
+      "english": "The All-Hearing",
+      "indonesian": "Yang Maha Mendengar"
+    },
+    {
+      "number": 27,
+      "arabic": "الْبَصِير",
+      "english": "The All-Seeing",
+      "indonesian": "Yang Maha Melihat"
+    },
+    {
+      "number": 28,
+      "arabic": "الْحَكَم",
+      "english": "The Judge",
+      "indonesian": "Yang Menetapkan Hukum"
+    },
+    {
+      "number": 29,
+      "arabic": "الْعَدْل",
+      "english": "The Utterly Just",
+      "indonesian": "Yang Mahaadil"
+    },
+    {
+      "number": 30,
+      "arabic": "اللَّطِيف",
+      "english": "The Subtle",
+      "indonesian": "Yang Maha Lembut"
+    },
+    {
+      "number": 31,
+      "arabic": "الْخَبِير",
+      "english": "The All-Aware",
+      "indonesian": "Yang Maha Mengetahui"
+    },
+    {
+      "number": 32,
+      "arabic": "الْحَلِيم",
+      "english": "The Forbearing",
+      "indonesian": "Yang Maha Penyantun"
+    },
+    {
+      "number": 33,
+      "arabic": "الْعَظِيم",
+      "english": "The Magnificent",
+      "indonesian": "Yang Maha Agung"
+    },
+    {
+      "number": 34,
+      "arabic": "الْغَفُور",
+      "english": "The Forgiving",
+      "indonesian": "Yang Maha Pengampun"
+    },
+    {
+      "number": 35,
+      "arabic": "الشَّكُور",
+      "english": "The Appreciative",
+      "indonesian": "Yang Maha Mensyukuri"
+    },
+    {
+      "number": 36,
+      "arabic": "الْعَلِيّ",
+      "english": "The Most High",
+      "indonesian": "Yang Mahatinggi"
+    },
+    {
+      "number": 37,
+      "arabic": "الْكَبِير",
+      "english": "The Most Great",
+      "indonesian": "Yang Mahabesar"
+    },
+    {
+      "number": 38,
+      "arabic": "الْحَفِيظ",
+      "english": "The Preserver",
+      "indonesian": "Yang Maha Memelihara"
+    },
+    {
+      "number": 39,
+      "arabic": "المُقِيت",
+      "english": "The Sustainer",
+      "indonesian": "Yang Maha Memberi Kecukupan"
+    },
+    {
+      "number": 40,
+      "arabic": "الْحَسِيب",
+      "english": "The Reckoner",
+      "indonesian": "Yang Maha Menghitung"
+    },
+    {
+      "number": 41,
+      "arabic": "الْجَلِيل",
+      "english": "The Majestic",
+      "indonesian": "Yang Mahamulia"
+    },
+    {
+      "number": 42,
+      "arabic": "الْكَرِيم",
+      "english": "The Generous",
+      "indonesian": "Yang Mahamulia"
+    },
+    {
+      "number": 43,
+      "arabic": "الرَّقِيب",
+      "english": "The Watchful",
+      "indonesian": "Yang Maha Mengawasi"
+    },
+    {
+      "number": 44,
+      "arabic": "الْمُجِيب",
+      "english": "The Responsive",
+      "indonesian": "Yang Maha Mengabulkan"
+    },
+    {
+      "number": 45,
+      "arabic": "الْوَاسِع",
+      "english": "The All-Encompassing",
+      "indonesian": "Yang Mahaluas"
+    },
+    {
+      "number": 46,
+      "arabic": "الْحَكِيم",
+      "english": "The Wise",
+      "indonesian": "Yang Mahabijaksana"
+    },
+    {
+      "number": 47,
+      "arabic": "الْوَدُود",
+      "english": "The Loving",
+      "indonesian": "Yang Maha Mencintai"
+    },
+    {
+      "number": 48,
+      "arabic": "الْمَجِيد",
+      "english": "The Glorious",
+      "indonesian": "Yang Mahamulia"
+    },
+    {
+      "number": 49,
+      "arabic": "الْبَاعِث",
+      "english": "The Resurrector",
+      "indonesian": "Yang Membangkitkan"
+    },
+    {
+      "number": 50,
+      "arabic": "الشَّهِيد",
+      "english": "The Witness",
+      "indonesian": "Yang Maha Menyaksikan"
+    },
+    {
+      "number": 51,
+      "arabic": "الْحَقّ",
+      "english": "The Truth",
+      "indonesian": "Yang Mahabenar"
+    },
+    {
+      "number": 52,
+      "arabic": "الْوَكِيل",
+      "english": "The Trustee",
+      "indonesian": "Yang Maha Memelihara"
+    },
+    {
+      "number": 53,
+      "arabic": "الْقَوِيّ",
+      "english": "The Strong",
+      "indonesian": "Yang Mahakuat"
+    },
+    {
+      "number": 54,
+      "arabic": "الْمَتِين",
+      "english": "The Firm",
+      "indonesian": "Yang Mahakokoh"
+    },
+    {
+      "number": 55,
+      "arabic": "الْوَلِيّ",
+      "english": "The Protecting Friend",
+      "indonesian": "Pelindung"
+    },
+    {
+      "number": 56,
+      "arabic": "الْحَمِيد",
+      "english": "The Praiseworthy",
+      "indonesian": "Yang Maha Terpuji"
+    },
+    {
+      "number": 57,
+      "arabic": "الْمُحْصِي",
+      "english": "The Enumerator",
+      "indonesian": "Yang Maha Menghitung"
+    },
+    {
+      "number": 58,
+      "arabic": "الْمُبْدِئ",
+      "english": "The Originator",
+      "indonesian": "Yang Maha Memulai"
+    },
+    {
+      "number": 59,
+      "arabic": "الْمُعِيد",
+      "english": "The Restorer",
+      "indonesian": "Yang Maha Mengembalikan"
+    },
+    {
+      "number": 60,
+      "arabic": "الْمُحْيِي",
+      "english": "The Giver of Life",
+      "indonesian": "Yang Maha Menghidupkan"
+    },
+    {
+      "number": 61,
+      "arabic": "الْمُمِيت",
+      "english": "The Bringer of Death",
+      "indonesian": "Yang Maha Mematikan"
+    },
+    {
+      "number": 62,
+      "arabic": "الْحَيّ",
+      "english": "The Ever-Living",
+      "indonesian": "Yang Maha Hidup"
+    },
+    {
+      "number": 63,
+      "arabic": "الْقَيُّوم",
+      "english": "The Sustainer",
+      "indonesian": "Yang Maha Berdiri Sendiri"
+    },
+    {
+      "number": 64,
+      "arabic": "الْوَاجِد",
+      "english": "The Finder",
+      "indonesian": "Yang Maha Menemukan"
+    },
+    {
+      "number": 65,
+      "arabic": "الْمَاجِد",
+      "english": "The Noble",
+      "indonesian": "Yang Mahamulia"
+    },
+    {
+      "number": 66,
+      "arabic": "الْوَاحِد",
+      "english": "The One",
+      "indonesian": "Yang Maha Esa"
+    },
+    {
+      "number": 67,
+      "arabic": "الْأَحَد",
+      "english": "The Unique",
+      "indonesian": "Yang Maha Tunggal"
+    },
+    {
+      "number": 68,
+      "arabic": "الصَّمَد",
+      "english": "The Eternal Refuge",
+      "indonesian": "Tempat Bergantung"
+    },
+    {
+      "number": 69,
+      "arabic": "الْقَادِر",
+      "english": "The Capable",
+      "indonesian": "Yang Mahakuasa"
+    },
+    {
+      "number": 70,
+      "arabic": "الْمُقْتَدِر",
+      "english": "The Omnipotent",
+      "indonesian": "Yang Mahakuasa"
+    },
+    {
+      "number": 71,
+      "arabic": "الْمُقَدِّم",
+      "english": "The Expediter",
+      "indonesian": "Yang Mendahulukan"
+    },
+    {
+      "number": 72,
+      "arabic": "الْمُؤَخِّر",
+      "english": "The Delayer",
+      "indonesian": "Yang Mengakhirkan"
+    },
+    {
+      "number": 73,
+      "arabic": "الْأَوَّل",
+      "english": "The First",
+      "indonesian": "Yang Awal"
+    },
+    {
+      "number": 74,
+      "arabic": "الْآخِر",
+      "english": "The Last",
+      "indonesian": "Yang Akhir"
+    },
+    {
+      "number": 75,
+      "arabic": "الظَّاهِر",
+      "english": "The Manifest",
+      "indonesian": "Yang Zahir"
+    },
+    {
+      "number": 76,
+      "arabic": "الْبَاطِن",
+      "english": "The Hidden",
+      "indonesian": "Yang Batin"
+    },
+    {
+      "number": 77,
+      "arabic": "الْوَالِي",
+      "english": "The Governor",
+      "indonesian": "Yang Memerintah"
+    },
+    {
+      "number": 78,
+      "arabic": "الْمُتَعَالِي",
+      "english": "The Most Exalted",
+      "indonesian": "Yang Mahatinggi"
+    },
+    {
+      "number": 79,
+      "arabic": "الْبَرّ",
+      "english": "The Source of Goodness",
+      "indonesian": "Sumber Kebajikan"
+    },
+    {
+      "number": 80,
+      "arabic": "التَّوَّاب",
+      "english": "The Ever-Returning",
+      "indonesian": "Yang Maha Penerima Tobat"
+    },
+    {
+      "number": 81,
+      "arabic": "الْمُنْتَقِم",
+      "english": "The Avenger",
+      "indonesian": "Yang Maha Membalas"
+    },
+    {
+      "number": 82,
+      "arabic": "العَفُوّ",
+      "english": "The Pardoner",
+      "indonesian": "Yang Maha Pemaaf"
+    },
+    {
+      "number": 83,
+      "arabic": "الرَّؤُوف",
+      "english": "The Kind",
+      "indonesian": "Yang Maha Penyantun"
+    },
+    {
+      "number": 84,
+      "arabic": "مَالِكُ الْمُلْك",
+      "english": "Master of the Kingdom",
+      "indonesian": "Pemilik Kerajaan"
+    },
+    {
+      "number": 85,
+      "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+      "english": "Possessor of Majesty and Honor",
+      "indonesian": "Pemilik Keagungan dan Kemuliaan"
+    },
+    {
+      "number": 86,
+      "arabic": "الْمُقْسِط",
+      "english": "The Equitable",
+      "indonesian": "Yang Mahaadil"
+    },
+    {
+      "number": 87,
+      "arabic": "الْجَامِع",
+      "english": "The Gatherer",
+      "indonesian": "Yang Maha Mengumpulkan"
+    },
+    {
+      "number": 88,
+      "arabic": "الْغَنِيّ",
+      "english": "The Self-Sufficient",
+      "indonesian": "Yang Mahakaya"
+    },
+    {
+      "number": 89,
+      "arabic": "الْمُغْنِي",
+      "english": "The Enricher",
+      "indonesian": "Yang Maha Memberi Kekayaan"
+    },
+    {
+      "number": 90,
+      "arabic": "الْمَانِع",
+      "english": "The Preventer",
+      "indonesian": "Yang Maha Mencegah"
+    },
+    {
+      "number": 91,
+      "arabic": "الضَّارّ",
+      "english": "The Distresser",
+      "indonesian": "Yang Menimpakan Mudharat"
+    },
+    {
+      "number": 92,
+      "arabic": "النَّافِع",
+      "english": "The Benefactor",
+      "indonesian": "Yang Memberi Manfaat"
+    },
+    {
+      "number": 93,
+      "arabic": "النُّور",
+      "english": "The Light",
+      "indonesian": "Cahaya"
+    },
+    {
+      "number": 94,
+      "arabic": "الْهَادِي",
+      "english": "The Guide",
+      "indonesian": "Yang Maha Memberi Petunjuk"
+    },
+    {
+      "number": 95,
+      "arabic": "الْبَدِيع",
+      "english": "The Incomparable Originator",
+      "indonesian": "Yang Maha Pencipta"
+    },
+    {
+      "number": 96,
+      "arabic": "الْبَاقِي",
+      "english": "The Everlasting",
+      "indonesian": "Yang Maha Kekal"
+    },
+    {
+      "number": 97,
+      "arabic": "الْوَارِث",
+      "english": "The Inheritor",
+      "indonesian": "Yang Maha Mewarisi"
+    },
+    {
+      "number": 98,
+      "arabic": "الرَّشِيد",
+      "english": "The Guide to the Right Path",
+      "indonesian": "Yang Maha Membimbing"
+    },
+    {
+      "number": 99,
+      "arabic": "الصَّبُور",
+      "english": "The Patient",
+      "indonesian": "Yang Maha Sabar"
+    }
+  ]
+}

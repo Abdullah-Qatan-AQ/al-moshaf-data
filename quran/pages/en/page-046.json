@@ -1,0 +1,103 @@
+{
+  "page": 46,
+  "lang": "ar",
+  "edition": "quran-uthmani",
+  "ayahs": [
+    {
+      "number": 277,
+      "text": "Whatever charity you give or vow[167] you make, Allah surely knows it. But the wrongdoers have no helpers.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 270,
+      "juz": 3,
+      "manzil": 1,
+      "page": 46,
+      "ruku": 38,
+      "hizbQuarter": 18,
+      "sajda": false
+    },
+    {
+      "number": 278,
+      "text": "If you give charity publicly, it is good; but if you give it secretly to the poor, it is better for you[168], and He will expiate some of your sins. And Allah is All-Aware of what you do.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 271,
+      "juz": 3,
+      "manzil": 1,
+      "page": 46,
+      "ruku": 38,
+      "hizbQuarter": 18,
+      "sajda": false
+    },
+    {
+      "number": 279,
+      "text": "You are not responsible for their guidance [O Prophet], but Allah guides whom He wills. Whatever wealth you spend in charity, it is for your own good – as long as you do so seeking Allah’s pleasure. And whatever wealth you spend in charity, you will be rewarded in full, and you will not be wronged.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 272,
+      "juz": 3,
+      "manzil": 1,
+      "page": 46,
+      "ruku": 38,
+      "hizbQuarter": 19,
+      "sajda": false
+    },
+    {
+      "number": 280,
+      "text": "[Charity is] for the poor who are fully occupied in the cause of Allah, unable to move about in the land [for livelihood]; the one who is unaware would think that they are rich because of their self-restraint. You will recognize them by their appearance. They do not ask people importunately. And whatever wealth you give, then Allah is All-Knowing of it.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 273,
+      "juz": 3,
+      "manzil": 1,
+      "page": 46,
+      "ruku": 38,
+      "hizbQuarter": 19,
+      "sajda": false
+    },
+    {
+      "number": 281,
+      "text": "Those who spend their wealth in charity, day and night, in secret and in public; they will have their reward with their Lord, and they will have no fear, nor will they grieve.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 274,
+      "juz": 3,
+      "manzil": 1,
+      "page": 46,
+      "ruku": 39,
+      "hizbQuarter": 19,
+      "sajda": false
+    }
+  ],
+  "language": "en"
+}

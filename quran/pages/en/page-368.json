@@ -1,0 +1,388 @@
+{
+  "page": 368,
+  "lang": "ar",
+  "edition": "quran-uthmani",
+  "ayahs": [
+    {
+      "number": 2952,
+      "text": "He said, “I did it when I had no guidance.",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 20,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2953,
+      "text": "So I fled from you in fear. Then my Lord gave me wisdom and made me one of the messengers.",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 21,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2954,
+      "text": "Is this a favor that you remind me with, that you have enslaved the Children of Israel?[8]",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 22,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2955,
+      "text": "Pharaoh said, “What is ‘the Lord of the worlds’?”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 23,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2956,
+      "text": "Moses said, “The Lord of the heavens and earth and all that is between them, if only you had sure faith.”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 24,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2957,
+      "text": "Pharaoh said to those around him, “Did you hear [what he just said]?”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 25,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2958,
+      "text": "Moses said, “Your Lord and the Lord of your forefathers.”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 26,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2959,
+      "text": "Pharaoh said, “Your messenger who has been sent to you is truly insane!”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 27,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2960,
+      "text": "Moses said, “Lord of the east and west and all that is between them, if only you had sense!”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 28,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2961,
+      "text": "Pharaoh said, “If you take any god other than me, I will throw you into prison.”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 29,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2962,
+      "text": "Moses said, “What if I bring you a clear proof?”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 30,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2963,
+      "text": "Pharaoh said, “Bring it then if you are truthful!”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 31,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2964,
+      "text": "So he threw down his staff, and suddenly it was a real serpent.",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 32,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2965,
+      "text": "And he drew out his hand, and it was glowing white to the beholders.",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 33,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 317,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2966,
+      "text": "Pharaoh said to the chiefs around him, “This is indeed a learned magician!",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 34,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 318,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2967,
+      "text": "He wants to drive you out of your land with his magic. What do you suggest?”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 35,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 318,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2968,
+      "text": "They said, “Let him and his brother wait and dispatch heralds to the cities",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 36,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 318,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2969,
+      "text": "to bring you every learned magician.”",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 37,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 318,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2970,
+      "text": "So the magicians were assembled at an appointed time on a known day[9].",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 38,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 318,
+      "hizbQuarter": 147,
+      "sajda": false
+    },
+    {
+      "number": 2971,
+      "text": "And it was said to the people, “Will you join the gathering,",
+      "surah": {
+        "number": 26,
+        "name": "سُورَةُ الشُّعَرَاءِ",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "numberOfAyahs": 227,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 39,
+      "juz": 19,
+      "manzil": 5,
+      "page": 368,
+      "ruku": 318,
+      "hizbQuarter": 147,
+      "sajda": false
+    }
+  ],
+  "language": "en"
+}

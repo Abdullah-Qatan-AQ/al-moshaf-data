@@ -1,0 +1,559 @@
+{
+  "page": 595,
+  "lang": "ar",
+  "edition": "quran-uthmani",
+  "ayahs": [
+    {
+      "number": 6044,
+      "text": "Demi matahari dan sinarnya pada pagi hari.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6045,
+      "text": "Demi bulan apabila mengiringinya.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6046,
+      "text": "Demi siang apabila menampakkannya.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6047,
+      "text": "Demi malam apabila menutupinya (gelap gulita).",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6048,
+      "text": "Demi langit serta perancangannya (yang menakjubkan).",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6049,
+      "text": "Demi bumi serta penghamparannya.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6050,
+      "text": "Demi jiwa serta penyempurnaan (ciptaan)nya.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6051,
+      "text": "Maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6052,
+      "text": "Sungguh beruntung orang yang menyucikannya (jiwa itu).",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6053,
+      "text": "Dan sungguh rugi orang yang mengotorinya.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6054,
+      "text": "(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim),",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6055,
+      "text": "ketika bangkit orang yang paling celaka di antara mereka.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6056,
+      "text": "Lalu Rasul Allah (Saleh) berkata kepada mereka, \"(Biarkanlah) unta betina dari Allah ini dengan minumannya.\"",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6057,
+      "text": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah).",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6058,
+      "text": "Dan Dia tidak takut terhadap akibatnya.",
+      "surah": {
+        "number": 91,
+        "name": "سُورَةُ الشَّمۡسِ",
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "numberOfAyahs": 15,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6059,
+      "text": "Demi malam apabila menutupi (cahaya siang).",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6060,
+      "text": "Demi siang bila terang benderang.",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6061,
+      "text": "Demi penciptaan laki-laki dan perempuan.",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6062,
+      "text": "Sungguh, usahamu memang beraneka macam.",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6063,
+      "text": "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6064,
+      "text": "dan membenarkan (adanya pahala) yang terbaik (surga),",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6065,
+      "text": "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan).",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6066,
+      "text": "Dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6067,
+      "text": "serta mendustakan (pahala) yang terbaik,",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6068,
+      "text": "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan).",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6069,
+      "text": "Dan hartanya tidak bermanfaat baginya apabila dia telah binasa.",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6070,
+      "text": "Sesungguhnya Kami lah yang memberi petunjuk,",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6071,
+      "text": "dan sesungguhnya milik Kami lah akhirat dan dunia.",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6072,
+      "text": "Maka aku memperingatkan kamu dengan neraka yang menyala-nyala,",
+      "surah": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "numberOfAyahs": 21,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 534,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  "language": "id"
+}

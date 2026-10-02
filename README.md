@@ -1,15 +1,41 @@
 # Al-Moshaf Data
 
-Public data distribution repository for the Al-Moshaf Android/Web application.
+مستودع عام لبيانات تطبيق **المصحف**، ومصدر قابل لإعادة الاستخدام من التطبيقات الأخرى.
 
-The application uses this repository as its preferred network source for Arabic Quran page data and the audited English Al-Mukhtasar tafsir. If a file is unavailable, the app automatically falls back to its original upstream APIs or bundled copy.
+> **تنبيه قانوني:** ملف `LICENSE` يغطي ملفات الفهرسة والبيانات الأصلية التي كتبها مستودع التطبيق فقط. كل ترجمة أو نص خارجي يحتفظ بشروط مصدره وإسناده. راجع `DATA_LICENSES.md` قبل إعادة التوزيع أو الاستخدام التجاري.
 
-## Layout
+## المحتوى
 
-- `quran/pages/ar/page-001.json` … `page-604.json`: Arabic page payloads used by the reader.
-- `quran/uthmani-tanzil.txt`: verbatim Tanzil Uthmani text with aya numbers.
-- `tafsir/en-mukhtasar.json`: English tafsir dataset, CC BY 4.0.
-- `manifest.json`: public base URL and source metadata.
-- `DATA_LICENSES.md`: required attribution and redistribution conditions.
+### القرآن
 
-See `DATA_LICENSES.md` before copying, modifying, or redistributing any data. The original application integration and repository metadata are MIT; external data retain their own licenses.
+- `quran/pages/ar/page-001.json` … `page-604.json`: النص العربي العثماني من Tanzil، مطابق للنص المصدر.
+- `quran/pages/en/page-001.json` … `page-604.json`: ترجمة English Translation — Rowwad Translation Center من QuranEnc.
+- `quran/pages/id/page-001.json` … `page-604.json`: ترجمة Indonesian Translation — Ministry of Religious Affairs من QuranEnc.
+- `quran/translations/en-english_rwwad.json`: النسخة الموحّدة ذات 6,236 آية مع الحواشي وبيانات المصدر.
+- `quran/translations/id-indonesian_affairs.json`: النسخة الموحّدة ذات 6,236 آية مع الحواشي وبيانات المصدر.
+- `quran/uthmani-tanzil.txt`: النص العثماني الأصلي من Tanzil.
+
+### التفاسير
+
+- `tafsir/en-mukhtasar.json`: التفسير الإنجليزي المختصر الموجود سابقًا، من Tafsir Center، مع شروطه وإسناده في `DATA_LICENSES.md`.
+- لا توجد تفاسير عربية أو إندونيسية مضمنة حاليًا؛ راجع `tafsir/README.md` لمعرفة السبب القانوني ومصادر الاحتياط.
+
+### المحتوى الأصلي
+
+- `devotional/adhkar.json`: أذكار وأدعية التطبيق بالعربية والإنجليزية والإندونيسية.
+- `devotional/names-of-allah.json`: 99 اسمًا مع معانيها وترجماتها.
+- `devotional/ruqyah.json`: مواد الرقية الموجودة في التطبيق مع مراجعها وترجماتها.
+
+هذه الملفات الثلاثة مستخرجة من محتوى مستودع التطبيق المعلن أنه أصلي ومرخّص MIT. لا يشمل ذلك أي تسجيلات صوتية أو مواد خارجية لاحقة.
+
+## الاستخدام داخل التطبيق
+
+يستخدم التطبيق صفحات `quran/pages/{lang}` كمصدره الشبكي المفضل للعربية والإنجليزية والإندونيسية، ويستخدم مستودع البيانات للتفسير الإنجليزي الموجود. عند تعذر الملف أو المستودع يعود إلى مصادر AlQuran.cloud الأصلية. لا يعتمد التطبيق على ملفات `devotional/` الشبكية؛ فهي موزعة لتستفيد منها تطبيقات أخرى وفق MIT، بينما تبقى النسخ المضمّنة في التطبيق كما هي.
+
+## التحقق
+
+```bash
+sha256sum -c SHA256SUMS.txt
+```
+
+تُحدّث ملفات الصفحات من مصدرها دون تغيير نص الترجمة، ويجب الاحتفاظ ببيانات الإصدار والإسناد داخل ملفات JSON عند النسخ.

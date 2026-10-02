@@ -1,0 +1,84 @@
+{
+  "page": 16,
+  "lang": "ar",
+  "edition": "quran-uthmani",
+  "ayahs": [
+    {
+      "number": 109,
+      "text": "Dan mereka mengikuti apa yang dibaca oleh setan-setan pada masa kerajaan Sulaiman. Sulaiman itu tidak kafir tetapi setan-setan itulah yang kafir, mereka mengajarkan sihir kepada manusia dan apa yang diturunkan kepada dua malaikat di negeri Babilonia yaitu Harut dan Marut. Padahal keduanya tidak mengajarkan sesuatu kepada seseorang sebelum mengatakan, \"Sesungguhnya kami hanyalah cobaan (bagimu), sebab itu janganlah kafir!\" Maka mereka mempelajari dari keduanya (malaikat itu) apa yang (dapat) memisahkan antara seorang (suami) dengan istrinya. Mereka tidak akan dapat mencelakakan seseorang dengan sihirnya kecuali dengan izin Allah. Mereka mempelajari sesuatu yang mencelakakan, dan tidak memberi manfaat kepada mereka. Dan sungguh, mereka sudah tahu, siapa yang membeli (menggunakan sihir) itu, niscaya tidak akan mendapat keuntungan di akhirat. Dan sungguh, sangatlah buruk perbuatan mereka yang menjual dirinya dengan sihir, sekiranya mereka tahu.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 102,
+      "juz": 1,
+      "manzil": 1,
+      "page": 16,
+      "ruku": 13,
+      "hizbQuarter": 6,
+      "sajda": false
+    },
+    {
+      "number": 110,
+      "text": "Dan jika mereka beriman dan bertakwa, pahala dari Allah pasti lebih baik, sekiranya mereka tahu.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 103,
+      "juz": 1,
+      "manzil": 1,
+      "page": 16,
+      "ruku": 13,
+      "hizbQuarter": 6,
+      "sajda": false
+    },
+    {
+      "number": 111,
+      "text": "Wahai orang-orang yang beriman! Janganlah kamu katakan, \"Rā'inā\",43) tetapi katakanlah, \"Unẓurnā\", dan dengarkanlah. Dan orang-orang kafir akan mendapat azab yang pedih.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 104,
+      "juz": 1,
+      "manzil": 1,
+      "page": 16,
+      "ruku": 14,
+      "hizbQuarter": 6,
+      "sajda": false
+    },
+    {
+      "number": 112,
+      "text": "Orang-orang yang kafir dari Ahli Kitab dan orang-orang musyrik tidak menginginkan diturunkannya kepadamu suatu kebaikan dari Tuhanmu. Tetapi secara khusus Allah memberikan rahmat-Nya kepada orang yang Dia kehendaki. Dan Allah pemilik karunia yang besar.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 105,
+      "juz": 1,
+      "manzil": 1,
+      "page": 16,
+      "ruku": 14,
+      "hizbQuarter": 6,
+      "sajda": false
+    }
+  ],
+  "language": "id"
+}

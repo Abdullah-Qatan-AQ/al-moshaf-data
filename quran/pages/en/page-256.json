@@ -1,0 +1,103 @@
+{
+  "page": 256,
+  "lang": "ar",
+  "edition": "quran-uthmani",
+  "ayahs": [
+    {
+      "number": 1756,
+      "text": "And [remember] when Moses said to his people, “Remember Allah’s favor upon you when He saved you from Pharaoh’s people who were inflicting upon you the worst torment, slaughtering your sons and keeping your women alive; that was a great trial from your Lord.",
+      "surah": {
+        "number": 14,
+        "name": "سُورَةُ إِبۡرَاهِيمَ",
+        "englishName": "Ibrahim",
+        "englishNameTranslation": "Abraham",
+        "numberOfAyahs": 52,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 13,
+      "manzil": 3,
+      "page": 256,
+      "ruku": 211,
+      "hizbQuarter": 102,
+      "sajda": false
+    },
+    {
+      "number": 1757,
+      "text": "And [remember] when your Lord declared, ‘If you are grateful, I will surely give you more; but if you are ungrateful, My punishment is severe indeed.’”",
+      "surah": {
+        "number": 14,
+        "name": "سُورَةُ إِبۡرَاهِيمَ",
+        "englishName": "Ibrahim",
+        "englishNameTranslation": "Abraham",
+        "numberOfAyahs": 52,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 13,
+      "manzil": 3,
+      "page": 256,
+      "ruku": 212,
+      "hizbQuarter": 102,
+      "sajda": false
+    },
+    {
+      "number": 1758,
+      "text": "And Moses said, “If you and all those who are on earth were to disbelieve, indeed Allah is Self-Sufficient, Praiseworthy.”",
+      "surah": {
+        "number": 14,
+        "name": "سُورَةُ إِبۡرَاهِيمَ",
+        "englishName": "Ibrahim",
+        "englishNameTranslation": "Abraham",
+        "numberOfAyahs": 52,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 13,
+      "manzil": 3,
+      "page": 256,
+      "ruku": 212,
+      "hizbQuarter": 102,
+      "sajda": false
+    },
+    {
+      "number": 1759,
+      "text": "Have there not come to you the stories of those who came before you – the people of Noah, ‘Ād and Thamūd, and those who came after them? No one knows them except Allah. Their messengers came to them with clear proofs, but they shoved their hands into their mouths[5] and said, “We disbelieve in what you are sent with, and we surely doubt what you are calling us to.”",
+      "surah": {
+        "number": 14,
+        "name": "سُورَةُ إِبۡرَاهِيمَ",
+        "englishName": "Ibrahim",
+        "englishNameTranslation": "Abraham",
+        "numberOfAyahs": 52,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 13,
+      "manzil": 3,
+      "page": 256,
+      "ruku": 212,
+      "hizbQuarter": 102,
+      "sajda": false
+    },
+    {
+      "number": 1760,
+      "text": "Their messengers said, “Can there be any doubt about Allah, the Creator of the heavens and earth? He calls you so that He may forgive some of your sins, and give you respite for an appointed term.” They said, “You are but humans like us! You want to turn us away from what our forefathers used to worship; then bring us a clear proof.”",
+      "surah": {
+        "number": 14,
+        "name": "سُورَةُ إِبۡرَاهِيمَ",
+        "englishName": "Ibrahim",
+        "englishNameTranslation": "Abraham",
+        "numberOfAyahs": 52,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 13,
+      "manzil": 3,
+      "page": 256,
+      "ruku": 212,
+      "hizbQuarter": 103,
+      "sajda": false
+    }
+  ],
+  "language": "en"
+}

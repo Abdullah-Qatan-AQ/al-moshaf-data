@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 Abdullah Qatan",
+  "source": "Original content authored/curated for the Al-Moshaf repository",
+  "sourceRepository": "https://github.com/Abdullah-Qatan-AQ/al-moshaf-",
+  "notice": "Hadith and Quran references are citations. This license covers the repository-authored data fields and translations, not external audio or third-party editions.",
+  "kind": "adhkar",
+  "items": {
+    "morning": {
+      "title": "أذكار الصباح",
+      "title_en": "Morning Remembrances",
+      "title_id": "Dzikir Pagi",
+      "icon": "🌅",
+      "color": "#f39c12",
+      "items": [
+        {
+          "text": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَٰذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَٰذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ",
+          "text_en": "We have reached the morning and the dominion belongs to Allah. Praise is to Allah. None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things. My Lord, I ask You for the good of this day and the good of what follows it, and I seek refuge in You from the evil of this day and the evil of what follows it.",
+          "text_id": "Kami telah memasuki pagi hari dan kerajaan milik Allah, segala puji bagi Allah, tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu. Wahai Tuhanku, aku memohon kepada-Mu kebaikan hari ini dan kebaikan setelahnya, dan aku berlindung kepada-Mu dari kejahatan hari ini dan kejahatan setelahnya.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ النُّشُورُ",
+          "text_en": "O Allah, by You we have reached the morning and by You we reach the evening, by You we live and by You we die, and to You is the resurrection.",
+          "text_id": "Ya Allah, dengan-Mu kami memasuki pagi, dengan-Mu kami memasuki sore, dengan-Mu kami hidup, dengan-Mu kami mati, dan kepada-Mu kebangkitan.",
+          "count": 1,
+          "ref": "الترمذي"
+        },
+        {
+          "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ",
+          "text_en": "Glory is to Allah and praise is to Him.",
+          "text_id": "Maha Suci Allah dan segala puji bagi-Nya.",
+          "count": 100,
+          "ref": "مسلم"
+        },
+        {
+          "text": "لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "text_en": "None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things.",
+          "text_id": "Tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu.",
+          "count": 10,
+          "ref": "متفق عليه"
+        },
+        {
+          "text": "أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ",
+          "text_en": "I seek Allah's forgiveness and repent to Him.",
+          "text_id": "Aku memohon ampun kepada Allah dan bertaubat kepada-Nya.",
+          "count": 100,
+          "ref": "متفق عليه"
+        },
+        {
+          "text": "اللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَٰهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عبدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+          "text_en": "O Allah, You are my Lord, none has the right to be worshipped but You. You created me and I am Your servant, and I am faithful to Your covenant and my promise to You as much as I can. I seek refuge in You from the evil of what I have done. I acknowledge before You Your favor upon me and I acknowledge my sin, so forgive me, for there is none who can forgive sins except You.",
+          "text_id": "Ya Allah, Engkau adalah Tuhanku, tidak ada tuhan selain Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu, dan aku tetap pada janji dan ikrar-Mu semampuku. Aku berlindung kepada-Mu dari keburukan apa yang telah aku perbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku, karena tidak ada yang mengampuni dosa kecuali Engkau.",
+          "count": 1,
+          "ref": "البخاري - سيد الاستغفار"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي",
+          "text_en": "O Allah, I ask You for forgiveness and well-being in this world and the Hereafter. O Allah, I ask You for forgiveness and well-being in my religion, my worldly affairs, my family and my wealth.",
+          "text_id": "Ya Allah, aku memohon ampunan dan keselamatan di dunia dan akhirat. Ya Allah, aku memohon ampunan dan keselamatan dalam agamaku, duniaku, keluargaku, dan hartaku.",
+          "count": 1,
+          "ref": "ابن ماجه وأبو داود"
+        },
+        {
+          "text": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لاَ إِلَٰهَ إِلاَّ أَنْتَ",
+          "text_en": "O Allah, grant me health in my body. O Allah, grant me health in my hearing. O Allah, grant me health in my sight. None has the right to be worshipped but You.",
+          "text_id": "Ya Allah, sehatkanlah badanku. Ya Allah, sehatkanlah pendengaranku. Ya Allah, sehatkanlah penglihatanku. Tidak ada tuhan selain Engkau.",
+          "count": 3,
+          "ref": "أبو داود"
+        },
+        {
+          "text": "حَسْبِيَ اللهُ لاَ إِلَٰهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+          "text_en": "Allah is sufficient for me. None has the right to be worshipped but He. In Him I put my trust and He is the Lord of the Mighty Throne.",
+          "text_id": "Cukuplah Allah bagiku, tidak ada tuhan selain Dia. Kepada-Nya aku bertawakal dan Dia adalah Tuhan Arsy yang agung.",
+          "count": 7,
+          "ref": "أبو داود"
+        },
+        {
+          "text": "بِسْمِ اللهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+          "text_en": "In the name of Allah with whose name nothing is harmed on earth nor in heaven, and He is the All-Hearing, the All-Knowing.",
+          "text_id": "Dengan nama Allah yang dengan nama-Nya tidak ada sesuatu pun yang membahayakan di bumi maupun di langit, dan Dia Maha Mendengar lagi Maha Mengetahui.",
+          "count": 3,
+          "ref": "أبو داود والترمذي"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَصْبَحْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ وَمَلائِكَتَكَ وَجَمِيعَ خَلْقِكَ أَنَّكَ أَنْتَ اللهُ لاَ إِلَٰهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
+          "text_en": "O Allah, I have reached the morning and I call You to witness, and I call the carriers of Your Throne, Your angels and all of Your creation to witness that You are Allah, none has the right to be worshipped but You alone, having no partner, and that Muhammad is Your servant and Your Messenger.",
+          "text_id": "Ya Allah, aku memasuki pagi hari dengan mempersaksikan-Mu dan mempersaksikan para pemikul Arsy-Mu, malaikat-malaikat-Mu dan seluruh makhluk-Mu, bahwa Engkau adalah Allah, tidak ada tuhan selain Engkau Yang Maha Esa, tidak ada sekutu bagi-Mu, dan bahwa Muhammad adalah hamba-Mu dan utusan-Mu.",
+          "count": 4,
+          "ref": "أبو داود"
+        }
+      ]
+    },
+    "evening": {
+      "title": "أذكار المساء",
+      "title_en": "Evening Remembrances",
+      "title_id": "Dzikir Petang",
+      "icon": "🌙",
+      "color": "#2c3e50",
+      "items": [
+        {
+          "text": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "text_en": "We have reached the evening and the dominion belongs to Allah. Praise is to Allah. None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things.",
+          "text_id": "Kami telah memasuki sore hari dan kerajaan milik Allah, segala puji bagi Allah. Tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+          "text_en": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+          "text_id": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan yang Dia ciptakan.",
+          "count": 3,
+          "ref": "مسلم"
+        },
+        {
+          "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ",
+          "text_en": "Glory is to Allah and praise is to Him.",
+          "text_id": "Maha Suci Allah dan segala puji bagi-Nya.",
+          "count": 100,
+          "ref": "مسلم"
+        },
+        {
+          "text": "أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ",
+          "text_en": "I seek Allah's forgiveness and repent to Him.",
+          "text_id": "Aku memohon ampun kepada Allah dan bertaubat kepada-Nya.",
+          "count": 100,
+          "ref": "متفق عليه"
+        },
+        {
+          "text": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَٰذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَٰذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا",
+          "text_en": "We have reached the evening and the dominion belongs to Allah. Praise is to Allah. None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things. My Lord, I ask You for the good of this night and the good of what follows it, and I seek refuge in You from the evil of this night and the evil of what follows it.",
+          "text_id": "Kami telah memasuki sore hari dan kerajaan milik Allah, segala puji bagi Allah. Tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu. Wahai Tuhanku, aku memohon kepada-Mu kebaikan malam ini dan kebaikan setelahnya, dan aku berlindung kepada-Mu dari kejahatan malam ini dan kejahatan setelahnya.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ الْمَصِيرُ",
+          "text_en": "O Allah, by You we reach the evening and by You we have reached the morning, by You we live and by You we die, and to You is the return.",
+          "text_id": "Ya Allah, dengan-Mu kami memasuki sore, dengan-Mu kami memasuki pagi, dengan-Mu kami hidup, dengan-Mu kami mati, dan kepada-Mu tempat kembali.",
+          "count": 1,
+          "ref": "الترمذي"
+        },
+        {
+          "text": "اللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَٰهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+          "text_en": "O Allah, You are my Lord, none has the right to be worshipped but You. You created me and I am Your servant, and I am faithful to Your covenant and my promise to You as much as I can. I seek refuge in You from the evil of what I have done. I acknowledge before You Your favor upon me and I acknowledge my sin, so forgive me, for there is none who can forgive sins except You.",
+          "text_id": "Ya Allah, Engkau adalah Tuhanku, tidak ada tuhan selain Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu, dan aku tetap pada janji dan ikrar-Mu semampuku. Aku berlindung kepada-Mu dari keburukan apa yang telah aku perbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku, karena tidak ada yang mengampuni dosa kecuali Engkau.",
+          "count": 1,
+          "ref": "البخاري"
+        },
+        {
+          "text": "لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "text_en": "None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things.",
+          "text_id": "Tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu.",
+          "count": 10,
+          "ref": "متفق عليه"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَمْسَيْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ وَمَلائِكَتَكَ وَجَمِيعَ خَلْقِكَ أَنَّكَ أَنْتَ اللهُ لاَ إِلَٰهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
+          "text_en": "O Allah, I have reached the evening and I call You to witness, and I call the carriers of Your Throne, Your angels and all of Your creation to witness that You are Allah, none has the right to be worshipped but You alone, having no partner, and that Muhammad is Your servant and Your Messenger.",
+          "text_id": "Ya Allah, aku memasuki sore hari dengan mempersaksikan-Mu dan mempersaksikan para pemikul Arsy-Mu, malaikat-malaikat-Mu dan seluruh makhluk-Mu, bahwa Engkau adalah Allah, tidak ada tuhan selain Engkau Yang Maha Esa, tidak ada sekutu bagi-Mu, dan bahwa Muhammad adalah hamba-Mu dan utusan-Mu.",
+          "count": 4,
+          "ref": "أبو داود"
+        },
+        {
+          "text": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لاَ إِلَٰهَ إِلاَّ أَنْتَ",
+          "text_en": "O Allah, grant me health in my body. O Allah, grant me health in my hearing. O Allah, grant me health in my sight. None has the right to be worshipped but You.",
+          "text_id": "Ya Allah, sehatkanlah badanku. Ya Allah, sehatkanlah pendengaranku. Ya Allah, sehatkanlah penglihatanku. Tidak ada tuhan selain Engkau.",
+          "count": 3,
+          "ref": "أبو داود"
+        },
+        {
+          "text": "حَسْبِيَ اللهُ لاَ إِلَٰهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+          "text_en": "Allah is sufficient for me. None has the right to be worshipped but He. In Him I put my trust and He is the Lord of the Mighty Throne.",
+          "text_id": "Cukuplah Allah bagiku, tidak ada tuhan selain Dia. Kepada-Nya aku bertawakal dan Dia adalah Tuhan Arsy yang agung.",
+          "count": 7,
+          "ref": "أبو داود"
+        },
+        {
+          "text": "بِسْمِ اللهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+          "text_en": "In the name of Allah with whose name nothing is harmed on earth nor in heaven, and He is the All-Hearing, the All-Knowing.",
+          "text_id": "Dengan nama Allah yang dengan nama-Nya tidak ada sesuatu pun yang membahayakan di bumi maupun di langit, dan Dia Maha Mendengar lagi Maha Mengetahui.",
+          "count": 3,
+          "ref": "أبو داود والترمذي"
+        },
+        {
+          "text": "رَضِيتُ بِاللَّهِ رَبًّا وَبِالإِسْلَامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا",
+          "text_en": "I am pleased with Allah as my Lord, with Islam as my religion, and with Muhammad as my Prophet.",
+          "text_id": "Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku, dan Muhammad sebagai nabiku.",
+          "count": 1,
+          "ref": "الترمذي: 3389 (حسن غريب)"
+        }
+      ]
+    },
+    "afterPrayer": {
+      "title": "أذكار بعد الصلاة",
+      "title_en": "After Prayer Remembrances",
+      "title_id": "Dzikir Setelah Shalat",
+      "icon": "🕌",
+      "color": "#27ae60",
+      "items": [
+        {
+          "text": "أَسْتَغْفِرُ اللهَ (ثلاثاً) اللَّهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالإِكْرَامِ",
+          "text_en": "I seek Allah's forgiveness (three times). O Allah, You are Peace and from You is peace. Blessed are You, O Possessor of Majesty and Honor.",
+          "text_id": "Aku memohon ampun kepada Allah (tiga kali). Ya Allah, Engkau adalah As-Salam dan dari-Mu as-salam. Maha Suci Engkau, wahai Pemilik keagungan dan kemuliaan.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "سُبْحَانَ اللهِ",
+          "text_en": "Glory is to Allah.",
+          "text_id": "Maha Suci Allah.",
+          "count": 33,
+          "ref": "مسلم"
+        },
+        {
+          "text": "الْحَمْدُ لِلَّهِ",
+          "text_en": "Praise is to Allah.",
+          "text_id": "Segala puji bagi Allah.",
+          "count": 33,
+          "ref": "مسلم"
+        },
+        {
+          "text": "اللهُ أَكْبَرُ",
+          "text_en": "Allah is the Greatest.",
+          "text_id": "Allah Maha Besar.",
+          "count": 33,
+          "ref": "مسلم"
+        },
+        {
+          "text": "لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، اللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ وَلاَ مُعْطِيَ لِمَا مَنَعْتَ وَلاَ يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+          "text_en": "None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things. O Allah, there is no preventer of what You give and no giver of what You prevent, and the wealth of a wealthy person cannot benefit him against You.",
+          "text_id": "Tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang dapat menghalangi apa yang Engkau berikan, dan tidak ada yang dapat memberi apa yang Engkau halangi, dan kekayaan orang yang kaya tidak bermanfaat baginya di hadapan-Mu.",
+          "count": 1,
+          "ref": "متفق عليه"
+        },
+        {
+          "text": "لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (تمام المئة)",
+          "text_en": "None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things. (to complete 100)",
+          "text_id": "Tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu. (untuk menggenapkan seratus)",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
+          "text_en": "There is no power and no strength except with Allah.",
+          "text_id": "Tidak ada daya dan upaya kecuali dengan kekuatan Allah.",
+          "count": 10,
+          "ref": "متفق عليه"
+        }
+      ]
+    },
+    "sleep": {
+      "title": "أذكار النوم",
+      "title_en": "Before Sleep Remembrances",
+      "title_id": "Dzikir Sebelum Tidur",
+      "icon": "😴",
+      "color": "#8e44ad",
+      "items": [
+        {
+          "text": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+          "text_en": "In Your name, O Allah, I die and I live.",
+          "text_id": "Dengan nama-Mu ya Allah aku mati dan aku hidup.",
+          "count": 1,
+          "ref": "البخاري"
+        },
+        {
+          "text": "سُبْحَانَ اللهِ (33) وَالْحَمْدُ لِلَّهِ (33) وَاللهُ أَكْبَرُ (34)",
+          "text_en": "Glory is to Allah (33), praise is to Allah (33), Allah is the Greatest (34).",
+          "text_id": "Maha Suci Allah (33), segala puji bagi Allah (33), Allah Maha Besar (34).",
+          "count": 1,
+          "ref": "متفق عليه"
+        },
+        {
+          "text": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+          "text_en": "O Allah, protect me from Your punishment on the Day You resurrect Your servants.",
+          "text_id": "Ya Allah, lindungilah aku dari azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu.",
+          "count": 3,
+          "ref": "أبو داود والترمذي"
+        },
+        {
+          "text": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالإِنْجِيلِ وَالْفُرْقَانِ، أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ",
+          "text_en": "O Allah, Lord of the seven heavens and Lord of the Mighty Throne, our Lord and Lord of everything, Splitter of the grain and the date-stone, Revealer of the Torah, the Gospel and the Criterion (Quran), I seek refuge in You from the evil of everything You take by the forelock.",
+          "text_id": "Ya Allah, Tuhan langit yang tujuh dan Tuhan Arsy yang agung, Tuhan kami dan Tuhan segala sesuatu, Yang membelah butir tumbuh-tumbuhan dan biji buah, Yang menurunkan Taurat, Injil dan Al-Furqan (Al-Quran), aku berlindung kepada-Mu dari kejahatan segala sesuatu yang Engkau pegang ubun-ubunnya.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+          "text_en": "O Allah, I submit myself to You, and I turn my face to You, and I entrust my affairs to You, and I rely on You, out of desire and fear of You. There is no refuge and no place of safety from You except with You. I believe in Your Book which You revealed and in Your Prophet whom You sent.",
+          "text_id": "Ya Allah, aku menyerahkan diriku kepada-Mu, aku menghadapkan wajahku kepada-Mu, aku menyerahkan urusanku kepada-Mu, dan aku menyandarkan punggungku kepada-Mu, karena berharap dan takut kepada-Mu. Tidak ada tempat berlindung dan menyelamatkan diri dari-Mu kecuali kepada-Mu. Aku beriman kepada kitab-Mu yang Engkau turunkan dan kepada nabi-Mu yang Engkau utus.",
+          "count": 1,
+          "ref": "متفق عليه"
+        }
+      ]
+    },
+    "wakeup": {
+      "title": "أذكار الاستيقاظ",
+      "title_en": "Upon Waking Remembrances",
+      "title_id": "Dzikir Bangun Tidur",
+      "icon": "⏰",
+      "color": "#e74c3c",
+      "items": [
+        {
+          "text": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+          "text_en": "Praise is to Allah who gave us life after He caused us to die, and to Him is the resurrection.",
+          "text_id": "Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami, dan kepada-Nya kebangkitan.",
+          "count": 1,
+          "ref": "البخاري"
+        },
+        {
+          "text": "لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَٰهَ إِلاَّ اللهُ وَاللهُ أَكْبَرُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي",
+          "text_en": "None has the right to be worshipped but Allah alone, having no partner. His is the dominion and His is the praise, and He is Able to do all things. Glory is to Allah, praise is to Allah, none has the right to be worshipped but Allah, and Allah is the Greatest. There is no power and no strength except with Allah, the Most High, the Supreme. My Lord, forgive me.",
+          "text_id": "Tidak ada tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, Dia Maha Kuasa atas segala sesuatu. Maha Suci Allah, segala puji bagi Allah, tidak ada tuhan selain Allah, Allah Maha Besar, tidak ada daya dan upaya kecuali dengan kekuatan Allah Yang Maha Tinggi lagi Maha Agung. Wahai Tuhanku, ampunilah aku.",
+          "count": 1,
+          "ref": "ابن ماجه"
+        },
+        {
+          "text": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي فِي جَسَدِي وَرَدَّ عَلَيَّ رُوحِي وَأَذِنَ لِي بِذِكْرِهِ",
+          "text_en": "Praise is to Allah who healed me in my body, returned my soul to me and allowed me to remember Him.",
+          "text_id": "Segala puji bagi Allah yang telah menyehatkan badanku, mengembalikan ruhku kepadaku, dan mengizinkanku untuk berzikir kepada-Nya.",
+          "count": 1,
+          "ref": "الترمذي"
+        }
+      ]
+    },
+    "dua": {
+      "title": "أدعية متنوعة",
+      "title_en": "Various Supplications",
+      "title_id": "Doa-Doa Berbagai",
+      "icon": "🤲",
+      "color": "#3498db",
+      "items": [
+        {
+          "text": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+          "text_en": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.",
+          "text_id": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari siksa api neraka.",
+          "count": 1,
+          "ref": "البقرة: 201"
+        },
+        {
+          "text": "رَبِّ زِدْنِي عِلْمًا",
+          "text_en": "My Lord, increase me in knowledge.",
+          "text_id": "Ya Tuhanku, tambahkanlah ilmu kepadaku.",
+          "count": 1,
+          "ref": "طه: 114"
+        },
+        {
+          "text": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
+          "text_en": "My Lord, expand for me my breast [with assurance] and ease for me my task and untie the knot from my tongue that they may understand my speech.",
+          "text_id": "Ya Tuhanku, lapangkanlah dadaku, dan mudahkanlah urusanku, dan lepaskanlah kekakuan dari lidahku, agar mereka mengerti perkataanku.",
+          "count": 1,
+          "ref": "طه: 25-28"
+        },
+        {
+          "text": "رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا",
+          "text_en": "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us.",
+          "text_id": "Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami melakukan kesalahan. Ya Tuhan kami, janganlah Engkau bebankan kepada kami beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami.",
+          "count": 1,
+          "ref": "البقرة: 286"
+        },
+        {
+          "text": "رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلُكَ مَا لَيْسَ لِي بِهِ عِلْمٌ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُنْ مِنَ الْخَاسِرِينَ",
+          "text_en": "My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.",
+          "text_id": "Ya Tuhanku, sesungguhnya aku berlindung kepada-Mu dari memohon kepada-Mu sesuatu yang aku tidak mengetahui (hakekat)nya. Dan sekiranya Engkau tidak memberi ampun kepadaku, dan (tidak) menaruh belas kasihan kepadaku, niscaya aku akan termasuk orang-orang yang merugi.",
+          "count": 1,
+          "ref": "هود: 47"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+          "text_en": "O Allah, I ask You for guidance, piety, chastity and wealth.",
+          "text_id": "Ya Allah, aku memohon kepada-Mu petunjuk, ketakwaan, kesucian diri, dan kekayaan.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+          "text_en": "O Allah, I seek refuge in You from anxiety and sorrow, and I seek refuge in You from inability and laziness, and I seek refuge in You from cowardice and miserliness, and I seek refuge in You from being overwhelmed by debt and from the oppression of men.",
+          "text_id": "Ya Allah, aku berlindung kepada-Mu dari kegalauan dan kesedihan, aku berlindung kepada-Mu dari kelemahan dan kemalasan, aku berlindung kepada-Mu dari sifat pengecut dan kikir, dan aku berlindung kepada-Mu dari lilitan hutang dan penindasan orang lain.",
+          "count": 1,
+          "ref": "أبو داود"
+        },
+        {
+          "text": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ دِقَّهُ وَجِلَّهُ وَأَوَّلَهُ وَآخِرَهُ وَعَلاَنِيَتَهُ وَسِرَّهُ",
+          "text_en": "O Allah, forgive me all my sins, the small and the great, the first and the last, the open and the secret.",
+          "text_id": "Ya Allah, ampunilah seluruh dosaku, yang kecil maupun yang besar, yang awal maupun yang akhir, yang terang-terangan maupun yang tersembunyi.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+          "text_en": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+          "text_id": "Ya Tuhan kami, anugerahkanlah kepada kami istri-istri kami dan keturunan kami sebagai penyenang hati (kami), dan jadikanlah kami imam bagi orang-orang yang bertakwa.",
+          "count": 1,
+          "ref": "الفرقان: 74"
+        },
+        {
+          "text": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+          "text_en": "O Allah, help me to remember You, to give thanks to You, and to worship You in the best way.",
+          "text_id": "Ya Allah, tolonglah aku untuk senantiasa mengingat-Mu, bersyukur kepada-Mu, dan beribadah dengan baik kepada-Mu.",
+          "count": 1,
+          "ref": "أبو داود والنسائي"
+        },
+        {
+          "text": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+          "text_en": "O Turner of hearts, keep my heart firm upon Your religion.",
+          "text_id": "Wahai Dzat yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu.",
+          "count": 1,
+          "ref": "الترمذي"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ فَإِنَّهُ لاَ يَمْلِكُهَا إِلاَّ أَنْتَ",
+          "text_en": "O Allah, I ask You for Your bounty and Your mercy, for none possesses them but You.",
+          "text_id": "Ya Allah, aku memohon kepada-Mu karunia-Mu dan rahmat-Mu, karena tidak ada yang memilikinya kecuali Engkau.",
+          "count": 1,
+          "ref": "الطبراني"
+        },
+        {
+          "text": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ",
+          "text_en": "Our Lord, let not our hearts deviate after You have guided us and grant us mercy from Yourself. Indeed, You are the Bestower.",
+          "text_id": "Ya Tuhan kami, janganlah Engkau jadikan hati kami condong kepada kesesatan setelah Engkau beri petunjuk kepada kami; karuniakanlah rahmat dari sisi-Mu. Sungguh, Engkaulah Maha Pemberi.",
+          "count": 1,
+          "ref": "آل عمران: 8"
+        },
+        {
+          "text": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
+          "text_en": "My Lord, expand for me my breast, ease my task, and untie the knot from my tongue so that they may understand my speech.",
+          "text_id": "Ya Tuhanku, lapangkanlah dadaku, mudahkanlah urusanku, dan lepaskanlah kekakuan dari lidahku agar mereka mengerti perkataanku.",
+          "count": 1,
+          "ref": "طه: 25-28"
+        },
+        {
+          "text": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ",
+          "text_en": "My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me.",
+          "text_id": "Ya Tuhanku, aku berlindung kepada-Mu dari bisikan-bisikan setan, dan aku berlindung kepada-Mu, ya Tuhanku, agar mereka tidak mendatangiku.",
+          "count": 1,
+          "ref": "المؤمنون: 97-98"
+        }
+      ]
+    },
+    "extra": {
+      "title": "أدعية مختارة",
+      "title_en": "Selected Supplications",
+      "title_id": "Doa Pilihan",
+      "icon": "✨",
+      "color": "#c08a24",
+      "items": [
+        {
+          "text": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي",
+          "text_en": "O Allah, guide me and make me steadfast.",
+          "text_id": "Ya Allah, berilah aku petunjuk dan keteguhan.",
+          "count": 1,
+          "ref": "مسلم"
+        },
+        {
+          "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+          "text_en": "O Allah, I ask You for pardon and well-being in this world and the Hereafter.",
+          "text_id": "Ya Allah, aku memohon ampunan dan keselamatan di dunia dan akhirat.",
+          "count": 1,
+          "ref": "ابن ماجه"
+        },
+        {
+          "text": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ",
+          "text_en": "My Lord, I seek refuge in You from the incitements of the devils and their presence.",
+          "text_id": "يا رب أعوذ بك من همزات الشياطين وحضورهم.",
+          "count": 1,
+          "ref": "المؤمنون: 97-98"
+        }
+      ]
+    }
+  }
+}

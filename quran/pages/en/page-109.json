@@ -1,0 +1,84 @@
+{
+  "page": 109,
+  "lang": "ar",
+  "edition": "quran-uthmani",
+  "ayahs": [
+    {
+      "number": 679,
+      "text": "But those who disbelieve and reject Our verses, they are the people of the Blazing Fire.",
+      "surah": {
+        "number": 5,
+        "name": "سُورَةُ المَائـِدَةِ",
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "numberOfAyahs": 120,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 10,
+      "juz": 6,
+      "manzil": 2,
+      "page": 109,
+      "ruku": 87,
+      "hizbQuarter": 43,
+      "sajda": false
+    },
+    {
+      "number": 680,
+      "text": "O you who believe, remember Allah’s favor upon you when some people planned to stretch their hands against you, but He held their hands back from you. And fear Allah, and in Allah let the believers put their trust.",
+      "surah": {
+        "number": 5,
+        "name": "سُورَةُ المَائـِدَةِ",
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "numberOfAyahs": 120,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 11,
+      "juz": 6,
+      "manzil": 2,
+      "page": 109,
+      "ruku": 87,
+      "hizbQuarter": 43,
+      "sajda": false
+    },
+    {
+      "number": 681,
+      "text": "Allah took a covenant from the Children of Israel and appointed twelve chiefs from among them. Allah said, “I am with you. If you establish prayer, give zakah, believe in My messengers and support them, and give Allah a goodly loan[13], I will surely forgive your sins and admit you into gardens under which rivers flow. But whoever of you disbelieves after this has truly strayed from the straight path.”",
+      "surah": {
+        "number": 5,
+        "name": "سُورَةُ المَائـِدَةِ",
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "numberOfAyahs": 120,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 12,
+      "juz": 6,
+      "manzil": 2,
+      "page": 109,
+      "ruku": 88,
+      "hizbQuarter": 44,
+      "sajda": false
+    },
+    {
+      "number": 682,
+      "text": "As a result of their breaking of the covenant, We cursed them and made their hearts grow hard. They distort words [of the Scripture] from their context[14], and forgot parts of what was enjoined upon them. You will not cease to discover betrayal on their part except for a few. So pardon them and overlook, for Allah loves those who do good.",
+      "surah": {
+        "number": 5,
+        "name": "سُورَةُ المَائـِدَةِ",
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "numberOfAyahs": 120,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 13,
+      "juz": 6,
+      "manzil": 2,
+      "page": 109,
+      "ruku": 88,
+      "hizbQuarter": 44,
+      "sajda": false
+    }
+  ],
+  "language": "en"
+}

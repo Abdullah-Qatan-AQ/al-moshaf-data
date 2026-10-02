@@ -1,23 +1,48 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "repository": "https://github.com/Abdullah-Qatan-AQ/al-moshaf-data",
   "rawBaseUrl": "https://raw.githubusercontent.com/Abdullah-Qatan-AQ/al-moshaf-data/main",
   "quran": {
     "arabic": {
       "edition": "quran-uthmani",
-      "source": "Tanzil Project / AlQuran.cloud page metadata",
+      "source": "Tanzil Project",
       "license": "CC BY 3.0 with verbatim/no-change terms",
       "pages": "quran/pages/ar/page-{page:03d}.json",
       "text": "quran/uthmani-tanzil.txt"
+    },
+    "english": {
+      "edition": "english_rwwad",
+      "source": "QuranEnc / Rowwad Translation Center",
+      "license": "QuranEnc redistribution terms; verbatim with attribution and version notice",
+      "pages": "quran/pages/en/page-{page:03d}.json",
+      "verses": "quran/translations/en-english_rwwad.json",
+      "sourceUrl": "https://quranenc.com/en/browse/english_rwwad"
+    },
+    "indonesian": {
+      "edition": "indonesian_affairs",
+      "source": "QuranEnc / Indonesian Ministry of Religious Affairs",
+      "license": "QuranEnc redistribution terms; verbatim with attribution and version notice",
+      "pages": "quran/pages/id/page-{page:03d}.json",
+      "verses": "quran/translations/id-indonesian_affairs.json",
+      "sourceUrl": "https://quranenc.com/en/browse/indonesian_affairs"
     }
   },
   "tafsir": {
     "english": {
       "edition": "en-tafsir-al-mukhtasar",
       "source": "Tafsir Center for Quranic Studies",
-      "license": "CC BY 4.0",
-      "file": "tafsir/en-mukhtasar.json"
-    }
+      "license": "CC BY 4.0 as declared by the source database",
+      "file": "tafsir/en-mukhtasar.json",
+      "commercialRedistribution": "Verify rights-holder permission before commercial distribution"
+    },
+    "arabic": {"status": "not-bundled", "reason": "Redistribution permission not verified"},
+    "indonesian": {"status": "not-bundled", "reason": "Redistribution permission not verified"}
+  },
+  "devotional": {
+    "adhkar": {"file": "devotional/adhkar.json", "license": "MIT"},
+    "namesOfAllah": {"file": "devotional/names-of-allah.json", "license": "MIT"},
+    "ruqyah": {"file": "devotional/ruqyah.json", "license": "MIT"},
+    "appIntegration": "These files are distributed for reuse but are intentionally not fetched by the application."
   },
   "fallback": "Use the original upstream APIs when a repository file is unavailable."
 }

@@ -1,0 +1,65 @@
+{
+  "page": 40,
+  "lang": "ar",
+  "edition": "quran-uthmani",
+  "ayahs": [
+    {
+      "number": 253,
+      "text": "Did you not see the chiefs of the Children of Israel after Moses when they said to their prophet: “Appoint for us a king so that we fight in the way of Allah.” He said: “How likely is it that if fighting was enjoined upon you that you will not fight?” They said: “How could we not fight in the way of Allah, while we have been driven out of our homes and separated from our children[137]?” However, when fighting was enjoined upon them, they turned away, except a few of them. And Allah is All-Knowing of the wrongdoers.",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 246,
+      "juz": 2,
+      "manzil": 1,
+      "page": 40,
+      "ruku": 33,
+      "hizbQuarter": 16,
+      "sajda": false
+    },
+    {
+      "number": 254,
+      "text": "Their prophet said to them: “Allah has appointed Saul as your king.” They said: “How could he be a king over us when we are more deserving of kingship than him, and he has not been given affluence in wealth?” He said: “Allah has chosen him over you and has increased him abundantly in knowledge and physique. Allah gives kingship to whom He wills, and Allah is All-Encompassing, All-Knowing.”",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 247,
+      "juz": 2,
+      "manzil": 1,
+      "page": 40,
+      "ruku": 33,
+      "hizbQuarter": 16,
+      "sajda": false
+    },
+    {
+      "number": 255,
+      "text": "Their prophet further said to them: “The sign of his kingship is that the Ark will come to you – carried by the angels – having therein tranquility[138] from your Lord and remains of what the House of Moses and the House of Aaron had left. Indeed, there is a sign in this for you, if you are true believers.”",
+      "surah": {
+        "number": 2,
+        "name": "سُورَةُ البَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "numberOfAyahs": 286,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 248,
+      "juz": 2,
+      "manzil": 1,
+      "page": 40,
+      "ruku": 33,
+      "hizbQuarter": 16,
+      "sajda": false
+    }
+  ],
+  "language": "en"
+}
