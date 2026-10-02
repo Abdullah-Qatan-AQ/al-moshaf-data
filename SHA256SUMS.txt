@@ -1,10 +1,10 @@
-6af009673db4355daf7844abe055a2805b2973dc5da7dcc82157cdf588689ba1  ./DATA_LICENSES.md
+1c45cb4bfcb65269d3aa5a69ad522db1ea888af46d5faac00b8db5ab154bde56  ./DATA_LICENSES.md
 8fbfe82d858ff8defa0c253d4e92088fd34d690c4810fd593b16b227ea8db1fe  ./LICENSE
 9edf3148cbd1a637f2faaa0a85c2fcaa52997fee6e7aa2574cfaef3ff4704c16  ./README.md
 e4ea0c14ee558f0bbb2b5927401516589107a0d3cc3290deef7136c91d87bf86  ./devotional/adhkar.json
 7b4bde3297e7088fafac77c14e07edf76de710b2b3975e2480a9ae311bc2dd80  ./devotional/names-of-allah.json
 2f61559f1edc5ef84f6f4b200835631ed2ac3a260fcd7d50ff9b80869918c740  ./devotional/ruqyah.json
-4056267158009a0b5e39c6f3b6004b01d7ccb620abf4ed7517a5d9c6a00094de  ./manifest.json
+efac0f0e758e87ee2098d2c87ddd991cb256e39920ec8ec6c6adabd86efa7e64  ./manifest.json
 c4a87f15816d52250602153ede701e5107d150a6cfb40b0b11c97428bf5053b2  ./quran/pages/ar/page-001.json
 6a6448e2d239c531a4a9d651969ece44c3241e061dd819169d9c2f6f5275c21e  ./quran/pages/ar/page-002.json
 a850d7d97307101b59e61e5ddab309403f1eb0c00d4f3cae9051739bf799d379  ./quran/pages/ar/page-003.json

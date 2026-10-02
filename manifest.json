@@ -28,10 +28,27 @@
     }
   },
   "devotional": {
-    "adhkar": {"file": "devotional/adhkar.json", "license": "MIT"},
-    "namesOfAllah": {"file": "devotional/names-of-allah.json", "license": "MIT"},
-    "ruqyah": {"file": "devotional/ruqyah.json", "license": "MIT"}
+    "adhkar": {
+      "file": "devotional/adhkar.json",
+      "license": "MIT"
+    },
+    "namesOfAllah": {
+      "file": "devotional/names-of-allah.json",
+      "license": "MIT"
+    },
+    "ruqyah": {
+      "file": "devotional/ruqyah.json",
+      "license": "MIT"
+    }
   },
-  "appIntegration": "The application reads Arabic Quran pages and licensed Arabic/English Tafsir Center datasets from this repository. No translation or tafsir API is used.",
-  "fallback": "AlQuran.cloud may be used only for Arabic Quran text if a repository file is unavailable; it is never used for translations or tafsir."
+  "appIntegration": "The application reads Arabic Quran pages and licensed Arabic/English Tafsir Center datasets from this repository. No translation or tafsir API is used. Audio is streamed as complete surah MP3 files from the declared Internet Archive source.",
+  "fallback": "AlQuran.cloud may be used only for Arabic Quran text if a repository file is unavailable; it is never used for translations or tafsir.",
+  "audio": {
+    "source": "Internet Archive — Quran By Sheikh Mishary Rashid Alafasy",
+    "license": "Public Domain Mark 1.0",
+    "url": "https://archive.org/details/misharyrashidalafasy_201908",
+    "files": "https://archive.org/download/misharyrashidalafasy_201908/{surah:03d}.mp3",
+    "count": 114,
+    "mode": "complete-surah-stream"
+  }
 }

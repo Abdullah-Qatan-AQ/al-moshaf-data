@@ -22,6 +22,12 @@
 
 - `devotional/adhkar.json` و`devotional/names-of-allah.json` و`devotional/ruqyah.json` محتوى أصلي ضمن MIT © 2026 Abdullah Qatan، ولا تشمل الرخصة مواد طرف ثالث غير موثقة.
 
+## الصوت
+
+- المصدر: [Internet Archive — Quran By Sheikh Mishary Rashid Alafasy](https://archive.org/details/misharyrashidalafasy_201908).
+- الحالة المعلنة في صفحة المصدر: 114 ملف MP3 للسور، وPublic Domain Mark 1.0. التطبيق يبث ملف السورة الكاملة عند اختيار الصوت.
+- يجب الاحتفاظ بإسناد المصدر والرابط، والتحقق من استمرار صفحة المصدر وحالة الملفات قبل كل إصدار.
+
 ## API الطوارئ
 
 - التطبيق يبدأ من الملفات المحلية في هذا المستودع.
