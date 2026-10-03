@@ -39,6 +39,14 @@
       "license": "CC BY 4.0",
       "file": "tafsir/en-mukhtasar.json",
       "commercialRedistribution": "Permitted by the official dataset card and LICENSE-DATA with attribution to Tafsir Center for Quranic Studies."
+    },
+    "arabicJamiAlWajiz": {
+      "edition": "ar-tafsir-al-jami-al-wajiz",
+      "source": "Yaman Amr / Sheikh Dr. Ayman Fathih Al-Amer",
+      "license": "CC BY-ND 4.0",
+      "file": "tafsir/al-jami-al-wajiz/ar-jami-al-wajiz.json",
+      "licenseFile": "tafsir/al-jami-al-wajiz/LICENSE.txt",
+      "commercialRedistribution": "Permitted verbatim with attribution; no modified derivatives may be distributed."
     }
   },
   "devotional": {

@@ -75,6 +75,17 @@ def main() -> None:
     tafsir_files = sorted((ROOT / "tafsir").glob("*-mukhtasar.json"))
     if len(tafsir_files) != 2:
         fail(f"expected Arabic and English Tafsir Center datasets, found {len(tafsir_files)}")
+    jami_path = ROOT / "tafsir/al-jami-al-wajiz/ar-jami-al-wajiz.json"
+    jami = parsed.get(jami_path.relative_to(ROOT).as_posix())
+    if not isinstance(jami, dict) or jami.get("edition") != "ar-tafsir-al-jami-al-wajiz" or jami.get("language") != "ar":
+        fail("Al-Jami Al-Wajiz metadata is invalid")
+    if jami.get("license") != "CC BY-ND 4.0" or jami.get("licenseUrl") != "https://creativecommons.org/licenses/by-nd/4.0/":
+        fail("Al-Jami Al-Wajiz license metadata is invalid")
+    if jami.get("author") != "الشيخ الدكتور أيمن فاتح آل عامر" or len(jami.get("items", [])) != 6236 or len(jami.get("surahs", [])) != 114:
+        fail("Al-Jami Al-Wajiz coverage is incomplete")
+    keys = {(int(row.get("surah_number")), int(row.get("ayah_number"))) for row in jami["items"]}
+    if len(keys) != 6236 or any(not row.get("tafsir_text") or not row.get("tafsir_html") for row in jami["items"]):
+        fail("Al-Jami Al-Wajiz contains duplicate, empty, or incomplete ayah records")
     for path in tafsir_files:
         document = parsed.get(path.relative_to(ROOT).as_posix())
         if not isinstance(document, dict):
@@ -88,7 +99,7 @@ def main() -> None:
 
     print(
         f"Data integrity passed: {len(entries)} checksums, {len(json_files)} valid JSON files, "
-        "604 Quran pages, and 2 complete licensed tafsir datasets."
+        "604 Quran pages, 2 complete CC BY 4.0 tafsir datasets, and 1 complete CC BY-ND 4.0 tafsir dataset."
     )
 
 

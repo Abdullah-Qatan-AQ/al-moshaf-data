@@ -1,11 +1,11 @@
 f69ad5372166d0649ca10c7288de92ffac9790d8289412710665fa75de8abef9  ./.github/workflows/data-integrity.yml
-4c07107ea39b1aed768d6448d16f08cd8072260b343d3205d87dfdf1dec6bde6  ./DATA_LICENSES.md
+2956274710d3ad08addc99849c26ea1b5d70ae24a84a4023df3acef2b3cecba0  ./DATA_LICENSES.md
 8fbfe82d858ff8defa0c253d4e92088fd34d690c4810fd593b16b227ea8db1fe  ./LICENSE
-00d44daa35c806d8ec89e19d7fb686bf896bc9c578245eafeddf674286facb16  ./README.md
+666665c5fe47e579a92f12ab112e3c3df7b25d329119fa4a7b099e2e3daf2075  ./README.md
 e4ea0c14ee558f0bbb2b5927401516589107a0d3cc3290deef7136c91d87bf86  ./devotional/adhkar.json
 7b4bde3297e7088fafac77c14e07edf76de710b2b3975e2480a9ae311bc2dd80  ./devotional/names-of-allah.json
 2f61559f1edc5ef84f6f4b200835631ed2ac3a260fcd7d50ff9b80869918c740  ./devotional/ruqyah.json
-32273dbf7cda7b4a9dc490f7863d5dd873e3948a08e463b86c952b83837abcd8  ./manifest.json
+03ce162e88e4c5d70f5189dfc968c81c23145258c511aada17e7f4abb1f85cac  ./manifest.json
 c4a87f15816d52250602153ede701e5107d150a6cfb40b0b11c97428bf5053b2  ./quran/pages/ar/page-001.json
 6a6448e2d239c531a4a9d651969ece44c3241e061dd819169d9c2f6f5275c21e  ./quran/pages/ar/page-002.json
 a850d7d97307101b59e61e5ddab309403f1eb0c00d4f3cae9051739bf799d379  ./quran/pages/ar/page-003.json
@@ -613,7 +613,10 @@ d57086b0d5da2569a1874f150ee553c0abf473b7dc36842b81d3c509a7f76dc9  ./quran/pages/
 548556228e0e609096b4fe8d1648988224db7eebf5b511e001e604c4a2007437  ./quran/translations/en-english_rwwad.json
 5cc98f89b039b977ad1fcf29e4fcd4be62a5c260ecf1c99b9f0c4a295a7f0d01  ./quran/translations/id-indonesian_affairs.json
 aa0bf9278a177a12e6d9bef621ce37a1d24fa35168b5ae9c13ebcbe01e3686cf  ./quran/uthmani-tanzil.txt
-63e5728f8fe29faec2236ecd57b32d3a69d7d78488e5f3bd4cd02bdce7a24581  ./scripts/check_data_integrity.py
+46f7aa09f0815d16d96c2918a98681d6b7631cc42e599b17e1790fa8e5f356be  ./scripts/check_data_integrity.py
 31fec932a5d4e92dd47748e31656050de879d1ca5bed79877885dcec48392702  ./tafsir/README.md
+cda98e1197c27698339037a42f1a8b9380fee7d11d6163a4df6a8310dae22e77  ./tafsir/al-jami-al-wajiz/LICENSE.txt
+00c67193822025f351792222efb5fd87bff298bdd2cf1a1d673956c761a6b53d  ./tafsir/al-jami-al-wajiz/README.md
+7c5f53e7aacb4e592ee75c57c8f523a36baca4105a7acd120e5e9261ea76f6a8  ./tafsir/al-jami-al-wajiz/ar-jami-al-wajiz.json
 a9e2646ae61a63a13a6292266f6eda2c913580995b7aea3037f149cb506b8e5c  ./tafsir/ar-mukhtasar.json
 7ba44b143ef4d855363a8d5b2af2b1d5a0c9486f9ed7476210d4e480c0fa7be0  ./tafsir/en-mukhtasar.json

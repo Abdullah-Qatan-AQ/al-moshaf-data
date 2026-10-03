@@ -8,6 +8,7 @@
 - `quran/uthmani-tanzil.txt`: بيانات البحث للنص العربي.
 - `tafsir/ar-mukhtasar.json`: التفسير المختصر العربي، 6,236 آية، CC BY 4.0.
 - `tafsir/en-mukhtasar.json`: التفسير المختصر الإنجليزي، 6,236 آية، CC BY 4.0.
+- `tafsir/al-jami-al-wajiz/ar-jami-al-wajiz.json`: الجامع الوجيز العربي، 6,236 آية مع بيانات 114 سورة، CC BY-ND 4.0، محفوظ حرفياً.
 - `quran/translations/en-english_rwwad.json`: ترجمة Rowwad الإنجليزية، 6,236 آية، بشروط إعادة توزيع QuranEnc.
 - `quran/translations/id-indonesian_affairs.json`: ترجمة وزارة الشؤون الدينية الإندونيسية، 6,236 آية، بشروط إعادة توزيع QuranEnc.
 - `devotional/`: محتوى أصلي مرخص MIT ضمن نطاقه.
