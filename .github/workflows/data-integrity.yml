@@ -1,0 +1,19 @@
+name: Data integrity
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Verify hashes, JSON, and dataset coverage
+        run: python3 scripts/check_data_integrity.py
