@@ -21,3 +21,9 @@
 ## المحتوى الأصلي
 
 - `devotional/adhkar.json` و`devotional/names-of-allah.json` و`devotional/ruqyah.json` محتوى أصلي ضمن MIT © 2026 Abdullah Qatan، ولا تشمل الرخصة مواد طرف ثالث غير موثقة.
+
+## الترجمات
+- الملفات: `quran/translations/en-english_rwwad.json` و`quran/translations/id-indonesian_affairs.json`.
+- المصدر: [QuranEnc](https://quranenc.com/en/home)، ترجمة Rowwad بالإنجليزية وترجمة وزارة الشؤون الدينية الإندونيسية.
+- الرخصة/الشروط: شروط إعادة توزيع QuranEnc، وليست MIT أو CC BY. النصان محفوظان حرفياً؛ يجب إبقاء الإسناد ومعلومات الإصدار ومعلومات النسخة الأصلية، وعدم تعديل النص، ونشر ملاحظات المصدر، ومراعاة متطلبات التحديث.
+- لا يُعلن المستودع أن هاتين الترجمتين مرخصتان ترخيصاً مفتوحاً عاماً؛ راجع شروط QuranEnc قبل أي توزيع تجاري.

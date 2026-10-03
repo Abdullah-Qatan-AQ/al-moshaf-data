@@ -9,6 +9,20 @@
       "license": "CC BY 3.0 with verbatim/no-change terms",
       "pages": "quran/pages/ar/page-{page:03d}.json",
       "text": "quran/uthmani-tanzil.txt"
+    },
+    "translations": {
+      "english": {
+        "edition": "english_rwwad",
+        "source": "QuranEnc / Rowwad Translation Center",
+        "license": "QuranEnc redistribution terms",
+        "file": "quran/translations/en-english_rwwad.json"
+      },
+      "indonesian": {
+        "edition": "indonesian_affairs",
+        "source": "QuranEnc / Indonesian Ministry of Religious Affairs",
+        "license": "QuranEnc redistribution terms",
+        "file": "quran/translations/id-indonesian_affairs.json"
+      }
     }
   },
   "tafsir": {
@@ -41,6 +55,6 @@
       "license": "MIT"
     }
   },
-  "appIntegration": "The application reads Arabic Quran pages and licensed Arabic/English Tafsir Center datasets from this repository. No translation or tafsir API is used. The repository contains no audio assets.",
+  "appIntegration": "The application reads Arabic Quran pages, QuranEnc English/Indonesian translations, and licensed Arabic/English Tafsir Center datasets from this repository. It never substitutes Arabic for a missing requested translation.",
   "fallback": "AlQuran.cloud may be used only for Arabic Quran text if a repository file is unavailable; it is never used for translations or tafsir."
 }

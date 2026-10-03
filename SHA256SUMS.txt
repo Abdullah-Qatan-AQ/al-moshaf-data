@@ -1,11 +1,11 @@
 f69ad5372166d0649ca10c7288de92ffac9790d8289412710665fa75de8abef9  ./.github/workflows/data-integrity.yml
-eea99e2dadcdf434f8bfea4984824be39bacac6881427d463743e06f59473164  ./DATA_LICENSES.md
+4c07107ea39b1aed768d6448d16f08cd8072260b343d3205d87dfdf1dec6bde6  ./DATA_LICENSES.md
 8fbfe82d858ff8defa0c253d4e92088fd34d690c4810fd593b16b227ea8db1fe  ./LICENSE
-9edf3148cbd1a637f2faaa0a85c2fcaa52997fee6e7aa2574cfaef3ff4704c16  ./README.md
+00d44daa35c806d8ec89e19d7fb686bf896bc9c578245eafeddf674286facb16  ./README.md
 e4ea0c14ee558f0bbb2b5927401516589107a0d3cc3290deef7136c91d87bf86  ./devotional/adhkar.json
 7b4bde3297e7088fafac77c14e07edf76de710b2b3975e2480a9ae311bc2dd80  ./devotional/names-of-allah.json
 2f61559f1edc5ef84f6f4b200835631ed2ac3a260fcd7d50ff9b80869918c740  ./devotional/ruqyah.json
-5aa8d35d1a5cc9bab516e8841297db44ba9a53e97ad221964d89e9415c391eec  ./manifest.json
+32273dbf7cda7b4a9dc490f7863d5dd873e3948a08e463b86c952b83837abcd8  ./manifest.json
 c4a87f15816d52250602153ede701e5107d150a6cfb40b0b11c97428bf5053b2  ./quran/pages/ar/page-001.json
 6a6448e2d239c531a4a9d651969ece44c3241e061dd819169d9c2f6f5275c21e  ./quran/pages/ar/page-002.json
 a850d7d97307101b59e61e5ddab309403f1eb0c00d4f3cae9051739bf799d379  ./quran/pages/ar/page-003.json
@@ -610,6 +610,8 @@ d57086b0d5da2569a1874f150ee553c0abf473b7dc36842b81d3c509a7f76dc9  ./quran/pages/
 1e3b076363282efe3013e1d7225eaf826848d04f3ba713f9a3b47946157b8a20  ./quran/pages/ar/page-602.json
 5676a151d84b1da7f4306697cd56f697d912a372b80029cd117108d92e6f1208  ./quran/pages/ar/page-603.json
 648afb8b49f8ff773a1d236512884a9c94f09ca59d0319e48cce4d2a99b41510  ./quran/pages/ar/page-604.json
+548556228e0e609096b4fe8d1648988224db7eebf5b511e001e604c4a2007437  ./quran/translations/en-english_rwwad.json
+5cc98f89b039b977ad1fcf29e4fcd4be62a5c260ecf1c99b9f0c4a295a7f0d01  ./quran/translations/id-indonesian_affairs.json
 aa0bf9278a177a12e6d9bef621ce37a1d24fa35168b5ae9c13ebcbe01e3686cf  ./quran/uthmani-tanzil.txt
 63e5728f8fe29faec2236ecd57b32d3a69d7d78488e5f3bd4cd02bdce7a24581  ./scripts/check_data_integrity.py
 31fec932a5d4e92dd47748e31656050de879d1ca5bed79877885dcec48392702  ./tafsir/README.md
