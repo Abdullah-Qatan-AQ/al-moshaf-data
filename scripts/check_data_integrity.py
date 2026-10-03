@@ -125,6 +125,24 @@ def main() -> None:
         if not isinstance(document, dict) or not isinstance(document.get("ayahs"), list) or not document["ayahs"]:
             fail(f"Quran page has no ayahs: {path.relative_to(ROOT)}")
 
+    translation_specs = {
+        "quran/translations/en-pickthall.json": ("en", "english_pickthall", "Mohammed Marmaduke William Pickthall"),
+        "quran/translations/id-kemenag.json": ("id", "indonesian_kemenag", "Indonesian Ministry of Religious Affairs (Kemenag)"),
+    }
+    for relative, (language, edition, translator) in translation_specs.items():
+        document = parsed.get(relative)
+        if not isinstance(document, dict) or document.get("language") != language or document.get("edition") != edition:
+            fail(f"translation metadata is invalid: {relative}")
+        if document.get("source") != "Tanzil Project" or document.get("license") != "CC BY 3.0":
+            fail(f"translation provenance is invalid: {relative}")
+        if document.get("licenseUrl") != "https://creativecommons.org/licenses/by/3.0/" or document.get("translator") != translator:
+            fail(f"translation attribution or license URL is invalid: {relative}")
+        items = document.get("items")
+        if not isinstance(items, list) or len(items) != 6236:
+            fail(f"translation coverage is incomplete: {relative}")
+        keys = [(int(row.get("surah", 0)), int(row.get("ayah", 0))) for row in items if isinstance(row, dict)]
+        if len(keys) != 6236 or len(set(keys)) != 6236 or any(not row.get("text") for row in items):
+            fail(f"translation records are incomplete or duplicated: {relative}")
     tafsir_files = sorted((ROOT / "tafsir").glob("*-mukhtasar.json"))
     if len(tafsir_files) != 2:
         fail(f"expected Arabic and English Tafsir Center datasets, found {len(tafsir_files)}")
@@ -205,7 +223,7 @@ def main() -> None:
 
     print(
         f"Data integrity passed: {len(entries)} checksums, {len(json_files)} valid JSON files, "
-        "604 Quran pages, 2 complete CC BY 4.0 tafsir datasets, and 1 verbatim CC BY-ND 4.0 tafsir "
+        "604 Quran pages, 2 complete CC BY 3.0 Tanzil translations, 2 complete CC BY 4.0 tafsir datasets, and 1 verbatim CC BY-ND 4.0 tafsir "
         f"dataset with 114 verified shards and {source_markup.links} safe cross-reference records."
     )
 
