@@ -182,6 +182,8 @@ def main() -> None:
             shard = json.loads(raw)
         except Exception as exc:
             fail(f"invalid shard for surah {number}: {exc}")
+        if info.get("sizeBytes") != len(raw):
+            fail(f"shard byte-size mismatch for surah {number}")
         if hashlib.sha256(raw).hexdigest() != info.get("sha256"):
             fail(f"shard SHA-256 mismatch for surah {number}")
         for key in ("edition", "language", "author", "source", "sourceCommit", "license", "licenseUrl"):
